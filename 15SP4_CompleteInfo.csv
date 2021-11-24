@@ -1,0 +1,808 @@
+Issue key,Issue id,Project Manager,Assignee,Status,Priority,Team Leader,Worker,Product Impact,Epic Link,Marketing Need,Business Impact,Customer Interest
+SLE-19996,488132,#N/A,#N/A,In Progress,Should Have,yfjiang,none,#N/A,SLE-19964,#N/A,#N/A,#N/A
+SLE-20070,488860,#N/A,matz2,In Progress,Should Have,matz2,#N/A,Medium,SLE-20049,High,#N/A,#N/A
+SLE-20174,489179,#N/A,#N/A,In Progress,Should Have,matz2,matz2,High,SLE-20049,High,#N/A,#N/A
+SLE-20173,489178,#N/A,simotek,Open,Should Have,kstreitova,#N/A,Medium,SLE-20049,High,#N/A,#N/A
+SLE-20037,488439,#N/A,#N/A,Open,Must Have,STorresi,none,High,SLE-18310,#N/A,#N/A,#N/A
+SLE-16385,443701,#N/A,#N/A,Planning,Must Have,#N/A,#N/A,#N/A,SLE-10622,#N/A,#N/A,#N/A
+SLE-22702,502561,aginies,#N/A,Planning,Should Have,#N/A,none,#N/A,SLE-22678,Medium,Medium,High
+SLE-21553,493575,aginies,#N/A,Planning,Should Have,ta-ro,#N/A,#N/A,SLE-21334,Low,Medium,High
+SLE-21633,494164,aginies,NMoreyChaisemartin,Done,Should Have,ta-ro,#N/A,#N/A,SLE-21335,Low,Medium,High
+SLE-20876,491271,#N/A,aginies,Done,Could Have,anicka,aginies,#N/A,SLE-19983,#N/A,#N/A,#N/A
+SLE-20872,491267,#N/A,#N/A,Planning,Should Have,jmcdough,none,#N/A,SLE-17887,#N/A,#N/A,#N/A
+SLE-20870,491265,aginies,aginies,In Progress,Should Have,jmcdough,none,#N/A,SLE-17777,#N/A,#N/A,#N/A
+SLE-22030,495869,aginies,#N/A,Planning,Should Have,sfent,none,#N/A,SLE-21918,Low,Medium,High
+SLE-22138,496661,aginies,#N/A,In Progress,Should Have,#N/A,none,#N/A,SLE-22050,Low,Medium,High
+SLE-16221,443183,#N/A,#N/A,Planning,Could Have,#N/A,#N/A,#N/A,SLE-15465,#N/A,#N/A,#N/A
+SLE-15439,440410,#N/A,smanolov,In Progress,Could Have,smanolov,smanolov,#N/A,SLE-15352,#N/A,#N/A,#N/A
+SLE-15435,440406,#N/A,#N/A,Open,Could Have,#N/A,#N/A,#N/A,SLE-15352,#N/A,#N/A,#N/A
+SLE-22825,502923,LMartin,#N/A,Planning,Must Have,#N/A,none,#N/A,SLE-22807,Medium,Medium,Medium
+SLE-22282,498081,LMartin,#N/A,Rejected,Must Have,#N/A,none,#N/A,SLE-21647,Low,Medium,High
+SLE-22280,498079,LMartin,#N/A,Planning,Must Have,#N/A,none,#N/A,SLE-21139,Low,Medium,High
+SLE-20833,491188,#N/A,xarbulu,In Progress,Must Have,STorresi,none,Low,SLE-20623,Low,Medium,High
+SLE-20825,491180,#N/A,#N/A,Rejected,Must Have,STorresi,none,High,SLE-20651,Low,Medium,High
+SLE-20033,488435,#N/A,varkoly,Under Review,Could Have,STorresi,none,Low,SLE-20031,#N/A,#N/A,#N/A
+SLE-18615,483690,#N/A,LMartin,Open,Must Have,STorresi,none,Low,SLE-18612,#N/A,#N/A,#N/A
+SLE-18613,483688,#N/A,AngelaBriel,Open,Wish to Have,STorresi,none,Low,SLE-18607,#N/A,#N/A,#N/A
+SLE-18114,480578,#N/A,AngelaBriel,Open,Should Have,STorresi,none,High,SLE-17885,#N/A,#N/A,#N/A
+SLE-19457,486323,#N/A,LMartin,Open,Should Have,STorresi,none,Low,SLE-18604,#N/A,#N/A,#N/A
+SLE-16347,443582,#N/A,AngelaBriel,Open,Could Have,STorresi,#N/A,Low,SLE-11220,#N/A,#N/A,#N/A
+SLE-22718,502661,fcrozat,#N/A,Planning,Could Have,sfent,none,#N/A,SLE-22488,Low,Medium,High
+SLE-21589,493774,suntorytimed,jsikes,Done,Could Have,kstreitova,pgajdos,Medium,SLE-21559,Low,Medium,High
+SLE-21587,493772,suntorytimed,#N/A,In Progress,Should Have,yfjiang,none,#N/A,SLE-21555,Low,Medium,High
+SLE-21899,495277,fcrozat,#N/A,Planning,Must Have,#N/A,none,#N/A,SLE-20650,Low,Medium,High
+SLE-21613,493886,msmeissn,msmeissn,Done,Could Have,smanolov,msmeissn,#N/A,SLE-21612,Low,Medium,High
+SLE-21272,492681,suntorytimed,sbrabec,In Progress,Wish to Have,kstreitova,none,Low,SLE-21105,Low,Medium,High
+SLE-21268,492677,suntorytimed,sbrabec,Done,Should Have,kstreitova,none,Low,SLE-21103,Low,Medium,High
+SLE-21264,492673,suntorytimed,sbrabec,Done,Should Have,kstreitova,none,Low,SLE-21104,Low,Medium,High
+SLE-21260,492669,suntorytimed,sbrabec,In Progress,Should Have,kstreitova,none,Low,SLE-21099,Low,Medium,High
+SLE-21186,492383,#N/A,sbrabec,Done,Should Have,kstreitova,sbrabec,Low,SLE-21110,Low,Medium,High
+SLE-21183,492380,#N/A,sbrabec,Done,Could Have,kstreitova,sbrabec,Low,SLE-21112,Low,Medium,High
+SLE-20052,488590,#N/A,#N/A,In Progress,Should Have,yfjiang,none,#N/A,SLE-19965,#N/A,#N/A,#N/A
+SLE-19740,487462,#N/A,federico-mena,Open,Should Have,sreeves1,none,Low,SLE-18652,#N/A,#N/A,#N/A
+SLE-19550,486602,#N/A,sndirsch,Done,Must Have,ptesarik,none,#N/A,SLE-18653,#N/A,#N/A,#N/A
+SLE-19546,486598,#N/A,mgorse,In Progress,Should Have,sreeves1,none,#N/A,SLE-17884,#N/A,#N/A,#N/A
+SLE-19538,486590,#N/A,yfjiang,Open,Could Have,yfjiang,#N/A,Medium,SLE-17244,#N/A,#N/A,#N/A
+SLE-17363,455898,#N/A,federico-mena,In Progress,Should Have,sreeves1,#N/A,Low,SLE-17243,#N/A,#N/A,#N/A
+SLE-14424,437778,#N/A,#N/A,Open,Could Have,claudiofontana,charlesa,#N/A,SLE-12117,#N/A,#N/A,#N/A
+SLE-10866,411373,#N/A,#N/A,Blocked,Could Have,locilka,#N/A,#N/A,SLE-5518,Medium,Medium,Medium
+SLE-22630,501197,a_faerber,ykaukab,Done,Should Have,ptesarik,ykaukab,#N/A,SLE-22616,Medium,#N/A,#N/A
+SLE-22628,501193,aginies,#N/A,Planning,Should Have,#N/A,none,#N/A,SLE-22385,Low,Medium,High
+SLE-22626,501191,aginies,#N/A,Planning,Should Have,fsundermeyer,#N/A,#N/A,SLE-22296,Low,Medium,High
+SLE-22618,501181,suntorytimed,#N/A,Planning,Must Have,#N/A,#N/A,#N/A,SLE-17603,#N/A,#N/A,#N/A
+SLE-22602,501108,holgisms,poswald,Planning,Must Have,hreinecke,none,#N/A,SLE-19246,#N/A,#N/A,#N/A
+SLE-22586,501062,msmeissn,shunghsiyu,Done,Must Have,mhocko,none,#N/A,SLE-22575,Medium,#N/A,#N/A
+SLE-22585,500923,gameboy974,firstyear,Open,Could Have,jmcdough,none,#N/A,SLE-18534,#N/A,#N/A,#N/A
+SLE-22583,500911,suntorytimed,#N/A,Planning,Could Have,#N/A,#N/A,#N/A,SLE-17196,#N/A,#N/A,#N/A
+SLE-22579,500901,suntorytimed,rwill,Open,Should Have,BenniBrunner,rwill,#N/A,SLE-22542,Medium,#N/A,#N/A
+SLE-22570,500814,suntorytimed,#N/A,Open,Should Have,Neyleah,gyribeiro,Low,SLE-22543,Medium,#N/A,#N/A
+SLE-22561,500796,msmeissn,#N/A,Planning,Could Have,kstreitova,#N/A,#N/A,SLE-20287,Low,Medium,High
+SLE-22558,500790,horon,#N/A,Planning,Should Have,rjschwei,none,#N/A,SLE-22479,Low,Medium,High
+SLE-22533,500596,suntorytimed,#N/A,Rejected,Should Have,#N/A,none,#N/A,SLE-20908,Low,Medium,High
+SLE-22532,500595,suntorytimed,#N/A,Planning,Wish to Have,lrupp,none,#N/A,SLE-21115,Low,Medium,High
+SLE-22528,500591,suntorytimed,#N/A,Planning,Wish to Have,kstreitova,none,#N/A,SLE-21115,Low,Medium,High
+SLE-22524,500583,suntorytimed,#N/A,Planning,Should Have,j_renner,none,#N/A,SLE-22142,Low,Medium,High
+SLE-22520,500579,aginies,#N/A,In Progress,Could Have,#N/A,none,#N/A,SLE-22244,Low,Medium,High
+SLE-22518,500577,suntorytimed,#N/A,Rejected,Should Have,#N/A,none,#N/A,SLE-22147,Low,Medium,High
+SLE-22515,500574,suntorytimed,adamm,In Progress,Should Have,bruclik,none,#N/A,SLE-22289,Low,Medium,High
+SLE-22512,500571,suntorytimed,firstyear,In Progress,Should Have,jmcdough,none,#N/A,SLE-22290,Low,Medium,High
+SLE-22510,500568,suntorytimed,goldwynr,Done,Should Have,goldwynr,goldwynr,#N/A,SLE-21924,Low,Medium,High
+SLE-22456,499873,aginies,#N/A,Planning,Wish to Have,#N/A,none,#N/A,SLE-22300,Low,Medium,High
+SLE-22455,499864,aherzig,dancermak,Planning,Should Have,#N/A,none,#N/A,SLE-22394,Low,Medium,High
+SLE-22446,499738,aherzig,dancermak,Open,Could Have,#N/A,none,#N/A,SLE-22427,Low,Medium,High
+SLE-22438,499730,aherzig,#N/A,Planning,Must Have,#N/A,none,#N/A,SLE-22145,Low,Medium,High
+SLE-22430,499722,aherzig,#N/A,Planning,Should Have,#N/A,none,#N/A,SLE-22390,Low,Medium,High
+SLE-22424,499716,aherzig,dancermak,In Progress,Should Have,#N/A,none,#N/A,SLE-22392,Low,Medium,High
+SLE-22416,499708,aherzig,dancermak,In Progress,Should Have,#N/A,none,#N/A,SLE-22394,Low,Medium,High
+SLE-22406,499698,aherzig,dancermak,Blocked,Should Have,#N/A,none,#N/A,SLE-22396,Low,Medium,High
+SLE-22386,499595,Jeffreycheung,#N/A,Done,Must Have,#N/A,colyli,#N/A,SLE-22233,Low,Medium,High
+SLE-22722,502667,aginies,#N/A,Planning,Must Have,#N/A,none,#N/A,SLE-22652,Medium,#N/A,#N/A
+SLE-22716,502651,Jeffreycheung,#N/A,Planning,Should Have,mhocko,bpetkov,#N/A,SLE-22676,Medium,#N/A,#N/A
+SLE-22708,502603,gameboy974,#N/A,Planning,Should Have,#N/A,none,#N/A,SLE-22704,Medium,Medium,Medium
+SLE-22695,502499,aginies,#N/A,Open,Must Have,#N/A,charlesa,#N/A,SLE-22653,Medium,#N/A,#N/A
+SLE-22688,502466,ihno,#N/A,Planning,Must Have,jeff_mahoney,none,#N/A,SLE-22496,Low,Medium,High
+SLE-22680,502432,rtsvetkov,#N/A,Rejected,Should Have,#N/A,none,#N/A,SLE-22664,Medium,#N/A,#N/A
+SLE-22666,501476,horon,#N/A,Planning,Must Have,ptesarik,none,#N/A,SLE-18271,#N/A,#N/A,#N/A
+SLE-22658,501454,LPechacek,#N/A,Done,Could Have,#N/A,none,#N/A,SLE-22478,Low,Medium,High
+SLE-22868,503266,fcrozat,yfjiang,Planning,Should Have,yfjiang,none,#N/A,SLE-22865,Medium,Medium,Medium
+SLE-22840,502956,Jeffreycheung,#N/A,Done,Could Have,sfent,trenn,#N/A,SLE-22720,Medium,Medium,Medium
+SLE-22838,502954,Jeffreycheung,#N/A,Done,Could Have,sfent,trenn,#N/A,SLE-22721,Medium,Medium,Medium
+SLE-22836,502952,Jeffreycheung,#N/A,Planning,Could Have,ptesarik,patrikjakobsson,#N/A,SLE-22724,Medium,Medium,Medium
+SLE-22834,502950,Jeffreycheung,#N/A,Planning,Could Have,ptesarik,patrikjakobsson,#N/A,SLE-22725,Medium,Medium,Medium
+SLE-22741,502717,aginies,#N/A,In Progress,Should Have,#N/A,none,#N/A,SLE-22730,Medium,Medium,Medium
+SLE-22306,498672,a_faerber,ptesarik,Planning,Could Have,ptesarik,#N/A,#N/A,SLE-17963,#N/A,#N/A,#N/A
+SLE-22358,499157,aherzig,#N/A,Planning,Must Have,#N/A,none,#N/A,SLE-20930,Low,Medium,High
+SLE-22354,499150,Jeffreycheung,Jeffreycheung,Done,Could Have,anicka,Jeffreycheung,#N/A,SLE-21060,Low,Medium,High
+SLE-22352,499138,Jeffreycheung,fstrba,Done,Wish to Have,bruclik,fstrba,#N/A,SLE-18751,#N/A,#N/A,#N/A
+SLE-22349,499125,LPechacek,#N/A,Rejected,Could Have,mhocko,none,#N/A,SLE-22171,Low,Medium,High
+SLE-22636,501211,Jeffreycheung,#N/A,In Progress,Could Have,ptesarik,patrikjakobsson,#N/A,SLE-22601,Medium,#N/A,#N/A
+SLE-22633,501207,a_faerber,ptesarik,Planning,Should Have,ptesarik,none,#N/A,SLE-21668,Low,Medium,High
+SLE-22316,499019,Jeffreycheung,#N/A,Done,Should Have,#N/A,jirislaby,#N/A,SLE-22309,Low,Medium,High
+SLE-22314,499017,Jeffreycheung,#N/A,Done,Should Have,#N/A,jirislaby,#N/A,SLE-22308,Low,Medium,High
+SLE-22293,498123,Jeffreycheung,#N/A,Planning,Could Have,hreinecke,#N/A,#N/A,SLE-17621,#N/A,#N/A,#N/A
+SLE-22287,498093,ihno,#N/A,In Progress,Must Have,matz2,tomdevries,#N/A,SLE-22253,Low,Medium,High
+SLE-22246,497969,suntorytimed,PSuarezHernandez,Done,Could Have,#N/A,none,#N/A,SLE-22204,Low,Medium,High
+SLE-21845,494785,a_faerber,ptesarik,Planning,Should Have,ptesarik,none,#N/A,SLE-21844,Low,Medium,High
+SLE-21827,494752,fcrozat,henrix,Done,Must Have,goldwynr,henrix,#N/A,SLE-21826,Low,Medium,High
+SLE-21821,494743,suntorytimed,#N/A,Done,Could Have,BenniBrunner,BenniBrunner,#N/A,SLE-21679,Low,Medium,High
+SLE-21819,494741,suntorytimed,#N/A,Planning,Should Have,kstreitova,none,#N/A,SLE-21167,Low,Medium,High
+SLE-21815,494737,suntorytimed,psimons,Open,Could Have,kstreitova,none,Low,SLE-21170,Low,Medium,High
+SLE-21811,494733,suntorytimed,psimons,Open,Could Have,kstreitova,none,Low,SLE-21171,Low,Medium,High
+SLE-21808,494730,suntorytimed,psimons,Open,Could Have,kstreitova,none,Low,SLE-21172,Low,Medium,High
+SLE-21805,494727,suntorytimed,psimons,Open,Could Have,kstreitova,none,Low,SLE-21173,Low,Medium,High
+SLE-21802,494724,suntorytimed,psimons,Open,Could Have,kstreitova,none,Medium,SLE-21174,Low,Medium,High
+SLE-21798,494720,suntorytimed,psimons,Open,Could Have,kstreitova,none,Low,SLE-21175,Low,Medium,High
+SLE-21795,494717,suntorytimed,ohollmann,Open,Could Have,kstreitova,none,Low,SLE-21176,Low,Medium,High
+SLE-21792,494714,suntorytimed,psimons,Open,Could Have,kstreitova,none,Low,SLE-21177,Low,Medium,High
+SLE-21788,494710,suntorytimed,psimons,Open,Could Have,kstreitova,none,Low,SLE-21178,Low,Medium,High
+SLE-21785,494707,suntorytimed,psimons,Open,Could Have,kstreitova,none,Low,SLE-21179,Low,Medium,High
+SLE-21782,494704,suntorytimed,#N/A,Planning,Should Have,bruclik,none,#N/A,SLE-21233,Low,Medium,High
+SLE-21780,494702,suntorytimed,#N/A,Rejected,Should Have,bruclik,none,#N/A,SLE-21236,Low,Medium,High
+SLE-21775,494697,suntorytimed,pmonrealgonzalez,Done,Could Have,kstreitova,pmonrealgonzalez,Low,SLE-21251,Low,Medium,High
+SLE-21771,494693,suntorytimed,pmonrealgonzalez,Done,Could Have,kstreitova,pmonrealgonzalez,Low,SLE-21252,Low,Medium,High
+SLE-21768,494690,suntorytimed,pmonrealgonzalez,Done,Could Have,kstreitova,pmonrealgonzalez,Low,SLE-21253,Low,Medium,High
+SLE-21765,494687,suntorytimed,pmonrealgonzalez,Done,Could Have,kstreitova,pmonrealgonzalez,Low,SLE-21254,Low,Medium,High
+SLE-21762,494684,suntorytimed,pmonrealgonzalez,Done,Could Have,kstreitova,pmonrealgonzalez,Low,SLE-21255,Low,Medium,High
+SLE-21758,494680,suntorytimed,#N/A,In Progress,Should Have,jeff_mahoney,none,#N/A,SLE-21256,Low,Medium,High
+SLE-21755,494677,suntorytimed,gyribeiro,Open,Should Have,Neyleah,none,Medium,SLE-21259,Low,Medium,High
+SLE-21752,494674,suntorytimed,simotek,Done,Should Have,kstreitova,none,Medium,SLE-21321,Low,Medium,High
+SLE-21737,494530,rtsvetkov,#N/A,Planning,Should Have,#N/A,none,#N/A,SLE-21524,Low,Medium,High
+SLE-21735,494528,msmeissn,#N/A,Planning,Must Have,#N/A,none,#N/A,SLE-21707,Low,Medium,High
+SLE-21731,494524,rtsvetkov,scabrero,Done,Could Have,#N/A,scabrero,Low,SLE-21225,Low,Medium,High
+SLE-21697,494453,Jeffreycheung,#N/A,Rejected,Should Have,hreinecke,NMoreyChaisemartin,#N/A,SLE-21696,Low,Medium,High
+SLE-21658,494288,suntorytimed,rmax,Done,Should Have,sfent,none,#N/A,SLE-20673,Low,Medium,High
+SLE-21635,494166,aginies,#N/A,Planning,Could Have,#N/A,none,#N/A,SLE-21560,Low,Medium,High
+SLE-21594,493779,fcrozat,#N/A,In Progress,Must Have,sreeves1,brunoleon,#N/A,SLE-21196,Low,Medium,High
+SLE-21592,493777,suntorytimed,#N/A,Done,Should Have,#N/A,none,#N/A,SLE-18247,#N/A,#N/A,#N/A
+SLE-21585,493707,Jeffreycheung,Jeffreycheung,Done,Could Have,#N/A,none,#N/A,SLE-21551,Low,Medium,High
+SLE-21570,493670,suntorytimed,pgajdos,Done,Could Have,kstreitova,pgajdos,Medium,SLE-20957,Low,Medium,High
+SLE-21549,493516,aginies,#N/A,Planning,Could Have,#N/A,none,#N/A,SLE-19364,#N/A,#N/A,#N/A
+SLE-21547,493514,aginies,#N/A,Blocked,Could Have,claudiofontana,none,#N/A,SLE-18739,#N/A,#N/A,#N/A
+SLE-21544,493511,aginies,NMoreyChaisemartin,Done,Could Have,#N/A,none,#N/A,SLE-18754,#N/A,#N/A,#N/A
+SLE-21540,493506,aginies,#N/A,In Progress,Could Have,claudiofontana,charlesa,#N/A,SLE-21537,Low,Medium,High
+SLE-21538,493503,suntorytimed,#N/A,Planning,Should Have,#N/A,none,#N/A,SLE-20679,Low,Medium,High
+SLE-21536,493500,gameboy974,#N/A,Planning,Could Have,lrupp,none,#N/A,SLE-20354,Low,Medium,High
+SLE-21534,493498,lkocman,#N/A,Planning,Could Have,sreeves1,none,#N/A,SLE-20355,Low,Medium,High
+SLE-21532,493496,gameboy974,gmoro,Planning,Could Have,bruclik,none,#N/A,SLE-20354,Low,Medium,High
+SLE-21528,493490,lkocman,#N/A,Rejected,Could Have,kvanderveer,none,#N/A,SLE-19762,#N/A,#N/A,#N/A
+SLE-21901,495279,fcrozat,#N/A,Planning,Could Have,#N/A,none,#N/A,SLE-20923,Low,Medium,High
+SLE-21892,495250,Jeffreycheung,bpetkov,Done,Could Have,mhocko,none,Low,SLE-21874,Low,Medium,High
+SLE-21888,495192,suntorytimed,pperego,In Progress,Should Have,smanolov,none,#N/A,SLE-21525,Low,Medium,High
+SLE-21886,495182,fcrozat,#N/A,Planning,Could Have,#N/A,none,#N/A,SLE-21873,Low,Medium,High
+SLE-21884,495179,fcrozat,#N/A,Planning,Wish to Have,yfjiang,qzhao,#N/A,SLE-20425,Low,Medium,High
+SLE-21882,495177,fcrozat,#N/A,Planning,Wish to Have,yfjiang,qzhao,#N/A,SLE-20426,Low,Medium,High
+SLE-21880,495175,fcrozat,#N/A,Planning,Should Have,sreeves1,alarrosa,#N/A,SLE-21332,Low,Medium,High
+SLE-21878,495172,ihno,#N/A,Planning,Must Have,sfent,none,#N/A,SLE-18440,#N/A,#N/A,#N/A
+SLE-21871,495144,Jeffreycheung,#N/A,Planning,Could Have,mhocko,#N/A,#N/A,SLE-21870,Low,Medium,High
+SLE-21857,495075,fcrozat,#N/A,Planning,Should Have,sreeves1,jfkw,#N/A,SLE-21606,Low,Medium,High
+SLE-21855,495065,fcrozat,fbui,Done,Must Have,BenniBrunner,fbui,#N/A,SLE-20309,Low,Medium,High
+SLE-21629,493905,suntorytimed,adamm,In Progress,Could Have,bruclik,none,Low,SLE-21237,Low,Medium,High
+SLE-21626,493902,LPechacek,mwilck,In Progress,Should Have,hreinecke,none,Low,SLE-20639,Low,Medium,High
+SLE-21853,495053,horon,#N/A,Open,Must Have,ptesarik,michals,#N/A,SLE-21848,Low,Medium,High
+SLE-20947,491511,#N/A,#N/A,Planning,Could Have,#N/A,none,#N/A,SLE-20530,Low,Medium,High
+SLE-20945,491509,#N/A,#N/A,In Progress,Could Have,claudiofontana,dfaggioli,#N/A,SLE-17702,#N/A,#N/A,#N/A
+SLE-20943,491507,#N/A,#N/A,Rejected,Could Have,claudiofontana,#N/A,#N/A,SLE-17511,#N/A,#N/A,#N/A
+SLE-20942,491506,#N/A,hreinecke,Planning,Should Have,hreinecke,#N/A,#N/A,SLE-16770,#N/A,#N/A,#N/A
+SLE-20940,491504,#N/A,#N/A,Planning,Could Have,claudiofontana,#N/A,#N/A,SLE-19038,#N/A,#N/A,#N/A
+SLE-20920,491349,#N/A,joeyli,Blocked,Could Have,joeyli,none,#N/A,SLE-20098,Low,Medium,High
+SLE-20918,491347,#N/A,joeyli,Blocked,Should Have,joeyli,none,#N/A,SLE-20096,Low,Medium,High
+SLE-20916,491338,#N/A,#N/A,Rejected,Could Have,claudiofontana,none,#N/A,SLE-18954,#N/A,#N/A,#N/A
+SLE-20914,491336,#N/A,#N/A,In Progress,Could Have,claudiofontana,none,#N/A,SLE-19295,#N/A,#N/A,#N/A
+SLE-20883,491280,#N/A,#N/A,Rejected,Should Have,mhocko,none,Medium,SLE-19428,#N/A,#N/A,#N/A
+SLE-20874,491269,#N/A,#N/A,In Progress,Should Have,claudiofontana,kallan,#N/A,SLE-20063,Low,Medium,High
+SLE-20866,491260,#N/A,#N/A,Planning,Must Have,#N/A,none,#N/A,SLE-18768,#N/A,#N/A,#N/A
+SLE-20864,491239,#N/A,pmonrealgonzalez,In Progress,Must Have,kstreitova,pmonrealgonzalez,Medium,SLE-20733,Low,Medium,High
+SLE-20862,491237,#N/A,pmonrealgonzalez,Done,Must Have,kstreitova,pmonrealgonzalez,Medium,SLE-20734,Low,Medium,High
+SLE-20856,491230,#N/A,#N/A,Open,Must Have,claudiofontana,charlesa,#N/A,SLE-20855,Low,Medium,High
+SLE-20821,491176,#N/A,#N/A,Planning,Must Have,kukuk,none,#N/A,SLE-18265,#N/A,#N/A,#N/A
+SLE-20805,491053,#N/A,#N/A,Open,Should Have,Neyleah,none,Low,SLE-20587,Low,Medium,High
+SLE-20796,491038,#N/A,mbrugger,Done,Must Have,ptesarik,mbrugger,#N/A,SLE-17875,#N/A,#N/A,#N/A
+SLE-20790,491032,#N/A,iivanov,Done,Could Have,ptesarik,iivanov,#N/A,SLE-19045,#N/A,#N/A,#N/A
+SLE-20788,491030,#N/A,mbrugger,In Progress,Could Have,ptesarik,mbrugger,#N/A,SLE-19047,#N/A,#N/A,#N/A
+SLE-20786,491028,#N/A,mbrugger,Done,Could Have,ptesarik,mbrugger,#N/A,SLE-16595,#N/A,#N/A,#N/A
+SLE-20784,491025,#N/A,ptesarik,Planning,Could Have,ptesarik,#N/A,#N/A,SLE-19043,#N/A,#N/A,#N/A
+SLE-20782,491023,#N/A,ykaukab,Blocked,Could Have,ptesarik,ykaukab,#N/A,SLE-19036,#N/A,#N/A,#N/A
+SLE-20776,491017,#N/A,iivanov,Blocked,Could Have,ptesarik,iivanov,#N/A,SLE-16558,#N/A,#N/A,#N/A
+SLE-20772,491013,#N/A,ykaukab,Done,Could Have,ptesarik,ykaukab,#N/A,SLE-19035,#N/A,#N/A,#N/A
+SLE-20770,491011,#N/A,ykaukab,Blocked,Should Have,ptesarik,ykaukab,#N/A,SLE-18477,#N/A,#N/A,#N/A
+SLE-20760,491001,#N/A,jones_tony,Blocked,Could Have,mgorman,#N/A,#N/A,SLE-16656,#N/A,#N/A,#N/A
+SLE-20758,490997,#N/A,clin,Blocked,Should Have,joeyli,clin,#N/A,SLE-20097,Low,Medium,High
+SLE-20750,490987,#N/A,mbrugger,Done,Could Have,ptesarik,mbrugger,#N/A,SLE-19211,#N/A,#N/A,#N/A
+SLE-20748,490984,#N/A,joro,Blocked,Should Have,mhocko,#N/A,Medium,SLE-17310,#N/A,#N/A,#N/A
+SLE-20737,490904,#N/A,NMoreyChaisemartin,Done,Could Have,hreinecke,NMoreyChaisemartin,Low,SLE-20578,Low,Medium,High
+SLE-20735,490902,#N/A,colyli,Done,Should Have,hreinecke,colyli,Medium,SLE-20728,Low,Medium,High
+SLE-20729,490895,#N/A,iivanov,Rejected,Could Have,ptesarik,iivanov,#N/A,SLE-16618,#N/A,#N/A,#N/A
+SLE-20726,490892,#N/A,ykaukab,Blocked,Could Have,ptesarik,ykaukab,#N/A,SLE-19291,#N/A,#N/A,#N/A
+SLE-20723,490889,#N/A,ykaukab,In Progress,Could Have,ptesarik,ykaukab,#N/A,SLE-19032,#N/A,#N/A,#N/A
+SLE-20721,490887,#N/A,mbrugger,Done,Could Have,ptesarik,mbrugger,#N/A,SLE-20148,Low,Medium,High
+SLE-20718,490884,#N/A,ykaukab,Done,Should Have,ptesarik,ykaukab,#N/A,SLE-17153,#N/A,#N/A,#N/A
+SLE-20715,490881,#N/A,ykaukab,Blocked,Could Have,ptesarik,ykaukab,#N/A,SLE-19033,#N/A,#N/A,#N/A
+SLE-20713,490879,#N/A,mbrugger,Done,Should Have,ptesarik,mbrugger,#N/A,SLE-20712,Low,Medium,High
+SLE-20710,490875,#N/A,ykaukab,Done,Could Have,ptesarik,ykaukab,#N/A,SLE-19046,#N/A,#N/A,#N/A
+SLE-20694,490857,#N/A,jmoellers,Done,Must Have,BenniBrunner,jmoellers,#N/A,SLE-20638,Low,Medium,High
+SLE-20684,490847,#N/A,#N/A,Done,Should Have,sfent,rmax,#N/A,SLE-20353,Low,Medium,High
+SLE-20677,490839,#N/A,SchoolGuy,Planning,Could Have,#N/A,none,#N/A,SLE-20100,Low,Medium,High
+SLE-20669,490826,#N/A,#N/A,Planning,Could Have,sreeves1,none,#N/A,SLE-20407,Low,Medium,High
+SLE-20667,490824,#N/A,#N/A,Rejected,Could Have,sreeves1,none,#N/A,SLE-20406,Low,Medium,High
+SLE-20654,490777,#N/A,pauloac,Open,Should Have,jmcdough,pauloac,Low,SLE-20043,#N/A,#N/A,#N/A
+SLE-20377,489913,#N/A,joseivanlopez,In Progress,Should Have,locilka,none,Medium,SLE-18430,#N/A,#N/A,#N/A
+SLE-20374,489910,#N/A,ptesarik,Open,Should Have,ptesarik,none,Low,SLE-18272,#N/A,#N/A,#N/A
+SLE-20350,489725,#N/A,#N/A,Done,Should Have,sfent,trenn,Medium,SLE-20336,Low,Medium,High
+SLE-20302,489544,#N/A,#N/A,Blocked,Could Have,mhocko,none,#N/A,SLE-19925,#N/A,#N/A,#N/A
+SLE-20283,489517,holgisms,wagi,Open,Should Have,hreinecke,wagi,Medium,SLE-19245,#N/A,#N/A,#N/A
+SLE-20281,489514,holgisms,wagi,Open,Should Have,hreinecke,wagi,Medium,SLE-19244,#N/A,#N/A,#N/A
+SLE-20279,489511,#N/A,#N/A,In Progress,Could Have,matz2,none,Low,SLE-17972,#N/A,#N/A,#N/A
+SLE-20277,489508,#N/A,jirislaby,Blocked,Could Have,mhocko,none,Medium,SLE-19961,#N/A,#N/A,#N/A
+SLE-20273,489503,#N/A,sbradnick,In Progress,Could Have,sreeves1,none,#N/A,SLE-18799,#N/A,#N/A,#N/A
+SLE-20265,489490,#N/A,jsikes,Planning,Should Have,kstreitova,jsikes,#N/A,SLE-17856,#N/A,#N/A,#N/A
+SLE-20257,489481,#N/A,#N/A,Planning,Should Have,rsimai,#N/A,#N/A,SLE-17309,#N/A,#N/A,#N/A
+SLE-20255,489479,#N/A,#N/A,Blocked,Should Have,locilka,#N/A,#N/A,SLE-17309,#N/A,#N/A,#N/A
+SLE-20253,489476,#N/A,mcepl,Open,Should Have,kstreitova,none,Low,SLE-18038,#N/A,#N/A,#N/A
+SLE-20250,489473,#N/A,#N/A,Blocked,Should Have,locilka,none,Low,SLE-18065,#N/A,#N/A,#N/A
+SLE-20248,489471,#N/A,afeijoo,In Progress,Must Have,BenniBrunner,afeijoo,High,SLE-18768,#N/A,#N/A,#N/A
+SLE-20246,489469,#N/A,ataschner,Done,Should Have,jgarlick,none,#N/A,SLE-19069,#N/A,#N/A,#N/A
+SLE-20239,489441,#N/A,hreinecke,Under Review,Could Have,hreinecke,none,#N/A,SLE-20185,Low,Medium,High
+SLE-20237,489428,#N/A,#N/A,Planning,Should Have,mhocko,none,#N/A,SLE-20078,Low,Medium,High
+SLE-20235,489426,#N/A,#N/A,Rejected,Should Have,mhocko,none,Medium,SLE-20074,Low,Medium,High
+SLE-20233,489424,#N/A,#N/A,Blocked,Should Have,mhocko,none,Medium,SLE-20075,Low,Medium,High
+SLE-20231,489422,#N/A,#N/A,Rejected,Could Have,mhocko,none,Medium,SLE-20076,Low,Medium,High
+SLE-20229,489401,#N/A,mvidner,Done,Could Have,locilka,none,Low,SLE-17782,#N/A,#N/A,#N/A
+SLE-20227,489399,#N/A,sballen,Under Review,Should Have,mlatimer,none,Medium,SLE-18776,#N/A,#N/A,#N/A
+SLE-20225,489397,#N/A,teclator,In Progress,Should Have,locilka,none,Medium,SLE-18784,#N/A,#N/A,#N/A
+SLE-20223,489395,#N/A,#N/A,Done,Should Have,sfent,rmax,#N/A,SLE-18801,#N/A,#N/A,#N/A
+SLE-20221,489393,#N/A,#N/A,In Progress,Could Have,BenniBrunner,BenniBrunner,#N/A,SLE-18818,#N/A,#N/A,#N/A
+SLE-20219,489391,#N/A,teclator,Done,Could Have,locilka,none,Medium,SLE-18819,#N/A,#N/A,#N/A
+SLE-20217,489389,#N/A,#N/A,Open,Could Have,locilka,none,Low,SLE-18820,#N/A,#N/A,#N/A
+SLE-20215,489387,#N/A,fbui,Open,Must Have,BenniBrunner,none,High,SLE-18822,#N/A,#N/A,#N/A
+SLE-20210,489380,#N/A,#N/A,Rejected,Should Have,locilka,none,#N/A,SLE-19732,#N/A,#N/A,#N/A
+SLE-20208,489376,#N/A,#N/A,Planning,Must Have,pgonin,none,#N/A,SLE-19752,#N/A,#N/A,#N/A
+SLE-20206,489374,#N/A,#N/A,Planning,Could Have,pgonin,none,#N/A,SLE-19758,#N/A,#N/A,#N/A
+SLE-20204,489372,#N/A,#N/A,Rejected,Could Have,pgonin,none,#N/A,SLE-19759,#N/A,#N/A,#N/A
+SLE-20202,489370,#N/A,#N/A,Planning,Could Have,pgonin,none,#N/A,SLE-19760,#N/A,#N/A,#N/A
+SLE-20200,489368,#N/A,#N/A,Rejected,Could Have,pgonin,none,#N/A,SLE-19761,#N/A,#N/A,#N/A
+SLE-20198,489366,#N/A,#N/A,Planning,Could Have,kvanderveer,none,#N/A,SLE-19763,#N/A,#N/A,#N/A
+SLE-20196,489363,#N/A,npower,Planning,Should Have,jmcdough,none,Medium,SLE-17834,#N/A,#N/A,#N/A
+SLE-20644,490535,holgisms,hreinecke,Planning,Should Have,hreinecke,none,Medium,SLE-19279,#N/A,#N/A,#N/A
+SLE-20642,490533,holgisms,hreinecke,Blocked,Should Have,hreinecke,hreinecke,#N/A,SLE-19280,#N/A,#N/A,#N/A
+SLE-20640,490531,holgisms,wagi,Open,Must Have,hreinecke,wagi,Medium,SLE-19281,#N/A,#N/A,#N/A
+SLE-20630,490514,#N/A,NMoreyChaisemartin,Done,Should Have,hreinecke,NMoreyChaisemartin,Medium,SLE-20580,Low,Medium,High
+SLE-20628,490512,#N/A,NMoreyChaisemartin,Done,Should Have,hreinecke,NMoreyChaisemartin,Low,SLE-20579,Low,Medium,High
+SLE-20626,490510,#N/A,#N/A,Done,Could Have,hreinecke,tsbogend,Medium,SLE-20582,Low,Medium,High
+SLE-20616,490500,#N/A,NMoreyChaisemartin,In Progress,Could Have,hreinecke,NMoreyChaisemartin,Low,SLE-20581,Low,Medium,High
+SLE-20611,490494,holgisms,wagi,Open,Should Have,hreinecke,wagi,Medium,SLE-19278,#N/A,#N/A,#N/A
+SLE-20597,490466,#N/A,scabrero,In Progress,Should Have,jmcdough,none,Low,SLE-20577,Low,Medium,High
+SLE-20592,490459,#N/A,ancorgs,Done,Should Have,locilka,none,Medium,SLE-20563,Low,Medium,High
+SLE-20590,490456,#N/A,goldwynr,In Progress,Could Have,goldwynr,goldwynr,Medium,SLE-18656,#N/A,#N/A,#N/A
+SLE-20583,490370,#N/A,tiwai,Done,Could Have,ptesarik,tiwai,#N/A,SLE-20538,Low,Medium,High
+SLE-20575,490354,#N/A,#N/A,Blocked,Could Have,locilka,none,Critical,SLE-20537,Low,Medium,High
+SLE-20573,490352,#N/A,#N/A,Done,Wish to Have,kstreitova,none,Low,SLE-20276,Low,Medium,High
+SLE-20571,490350,#N/A,#N/A,Blocked,Should Have,locilka,none,Medium,SLE-20535,Low,Medium,High
+SLE-20569,490348,#N/A,sbrabec,Planning,Could Have,kstreitova,none,#N/A,SLE-17942,#N/A,#N/A,#N/A
+SLE-20564,490343,#N/A,#N/A,Open,Could Have,locilka,none,Medium,SLE-20547,Low,Medium,High
+SLE-20559,490338,#N/A,#N/A,Planning,Could Have,j_renner,none,#N/A,SLE-20534,Low,Medium,High
+SLE-20557,490336,#N/A,ancorgs,Done,Could Have,locilka,ancorgs,Medium,SLE-20416,Low,Medium,High
+SLE-20548,490326,#N/A,#N/A,Open,Could Have,locilka,none,Low,SLE-20413,Low,Medium,High
+SLE-20543,490320,#N/A,suntorytimed,Open,Should Have,Neyleah,none,Low,SLE-20518,Low,Medium,High
+SLE-20539,490315,#N/A,firstyear,Open,Should Have,jmcdough,#N/A,High,SLE-11448,#N/A,#N/A,#N/A
+SLE-20521,490280,#N/A,ykaukab,Done,Could Have,ptesarik,ykaukab,#N/A,SLE-20497,Low,Medium,High
+SLE-20519,490277,#N/A,ykaukab,Done,Could Have,ptesarik,ykaukab,#N/A,SLE-20498,Low,Medium,High
+SLE-20516,490267,#N/A,jones_tony,In Progress,Must Have,mgorman,#N/A,#N/A,SLE-17360,#N/A,#N/A,#N/A
+SLE-20499,490175,#N/A,#N/A,Open,Wish to Have,sfent,rmax,#N/A,SLE-17334,#N/A,#N/A,#N/A
+SLE-20495,490171,#N/A,#N/A,Done,Could Have,sfent,trenn,Medium,SLE-20335,Low,Medium,High
+SLE-20493,490168,#N/A,#N/A,Blocked,Could Have,locilka,none,Low,SLE-17269,#N/A,#N/A,#N/A
+SLE-20491,490165,#N/A,#N/A,Rejected,Could Have,locilka,#N/A,Medium,SLE-17308,#N/A,#N/A,#N/A
+SLE-20489,490162,#N/A,#N/A,Rejected,Could Have,locilka,#N/A,#N/A,SLE-17948,#N/A,#N/A,#N/A
+SLE-20483,490156,#N/A,#N/A,Open,Should Have,j_renner,none,Low,SLE-20437,Low,Medium,High
+SLE-20481,490154,#N/A,jreidinger,In Progress,Should Have,locilka,none,Low,SLE-20437,Low,Medium,High
+SLE-20477,490150,#N/A,#N/A,Rejected,Should Have,locilka,none,Low,SLE-17953,#N/A,#N/A,#N/A
+SLE-20475,490148,#N/A,abergmann,Under Review,Should Have,smanolov,none,#N/A,SLE-20339,Low,Medium,High
+SLE-20464,490136,#N/A,tsaupe,In Progress,Should Have,BenniBrunner,none,High,SLE-20348,Low,Medium,High
+SLE-20462,490131,#N/A,shundhammer,Done,Should Have,locilka,none,Low,SLE-20346,Low,Medium,High
+SLE-20460,490127,#N/A,#N/A,Planning,Could Have,sfent,#N/A,#N/A,SLE-20055,Low,Medium,High
+SLE-20456,490123,#N/A,fstrba,Open,Should Have,bruclik,none,Low,SLE-20308,Low,Medium,High
+SLE-20453,490120,#N/A,ailiopoulos,Done,Could Have,goldwynr,none,Medium,SLE-18064,#N/A,#N/A,#N/A
+SLE-20449,490116,#N/A,#N/A,In Progress,Could Have,matz2,marxin,Low,SLE-17951,#N/A,#N/A,#N/A
+SLE-20447,490114,#N/A,#N/A,Planning,Could Have,mlschroe,none,#N/A,SLE-17955,#N/A,#N/A,#N/A
+SLE-20423,489977,#N/A,#N/A,Done,Could Have,sfent,trenn,Medium,SLE-20403,Low,Medium,High
+SLE-20421,489975,#N/A,#N/A,Done,Should Have,sfent,trenn,Low,SLE-20402,Low,Medium,High
+SLE-20419,489973,#N/A,#N/A,Done,Should Have,sfent,trenn,Low,SLE-20401,Low,Medium,High
+SLE-20417,489971,#N/A,#N/A,Done,Should Have,sfent,trenn,Medium,SLE-20400,Low,Medium,High
+SLE-20181,489210,#N/A,#N/A,Open,Should Have,suntorytimed,none,Medium,SLE-20180,Low,Medium,High
+SLE-20398,489936,#N/A,msmeissn,In Progress,Could Have,smanolov,wfrisch,#N/A,SLE-20287,Low,Medium,High
+SLE-20392,489930,#N/A,alix82,Planning,Could Have,#N/A,none,#N/A,SLE-20373,Low,Medium,High
+SLE-20194,489361,#N/A,#N/A,Planning,Should Have,sfent,none,#N/A,SLE-17762,#N/A,#N/A,#N/A
+SLE-20192,489359,#N/A,scabrero,Done,Should Have,jmcdough,none,Low,SLE-17763,#N/A,#N/A,#N/A
+SLE-20190,489356,#N/A,#N/A,Planning,Could Have,joeyli,none,#N/A,SLE-19993,#N/A,#N/A,#N/A
+SLE-20188,489354,#N/A,wagi,In Progress,Must Have,hreinecke,wagi,Medium,SLE-20184,Low,Medium,High
+SLE-20186,489352,#N/A,hreinecke,Under Review,Could Have,hreinecke,hreinecke,Medium,SLE-20183,Low,Medium,High
+SLE-22094,495999,suntorytimed,dspinella,Done,Could Have,kstreitova,none,Low,SLE-21108,Low,Medium,High
+SLE-22092,495997,suntorytimed,sbrabec,Done,Should Have,kstreitova,sbrabec,Low,SLE-21109,Low,Medium,High
+SLE-22088,495993,suntorytimed,sbrabec,In Progress,Should Have,kstreitova,none,Medium,SLE-21111,Low,Medium,High
+SLE-22085,495990,suntorytimed,dspinella,Rejected,Could Have,kstreitova,none,#N/A,SLE-21033,Low,Medium,High
+SLE-22082,495987,suntorytimed,dspinella,Done,Could Have,kstreitova,none,Low,SLE-21034,Low,Medium,High
+SLE-22079,495984,suntorytimed,dspinella,Done,Could Have,kstreitova,none,Low,SLE-21035,Low,Medium,High
+SLE-22076,495981,suntorytimed,dspinella,Done,Could Have,kstreitova,none,Low,SLE-21036,Low,Medium,High
+SLE-22073,495978,suntorytimed,dspinella,Open,Should Have,kstreitova,none,Medium,SLE-21037,Low,Medium,High
+SLE-22069,495974,suntorytimed,#N/A,Open,Should Have,locilka,none,Medium,SLE-21042,Low,Medium,High
+SLE-22066,495971,suntorytimed,dspinella,Done,Could Have,kstreitova,none,Low,SLE-21045,Low,Medium,High
+SLE-22063,495968,suntorytimed,pmonrealgonzalez,Done,Could Have,kstreitova,pmonrealgonzalez,Low,SLE-21047,Low,Medium,High
+SLE-22060,495965,suntorytimed,dspinella,Done,Could Have,kstreitova,none,Low,SLE-21048,Low,Medium,High
+SLE-22057,495962,suntorytimed,dspinella,Open,Should Have,kstreitova,none,Low,SLE-21049,Low,Medium,High
+SLE-22048,495911,Jeffreycheung,#N/A,Rejected,Could Have,bruclik,adamm,#N/A,SLE-21058,Low,Medium,High
+SLE-22027,495865,suntorytimed,dspinella,Done,Could Have,kstreitova,none,Low,SLE-21050,Low,Medium,High
+SLE-22023,495861,suntorytimed,dspinella,Done,Should Have,kstreitova,none,Low,SLE-21059,Low,Medium,High
+SLE-22019,495857,suntorytimed,dspinella,Open,Should Have,kstreitova,none,Medium,SLE-20671,Low,Medium,High
+SLE-22015,495853,suntorytimed,#N/A,Open,Could Have,locilka,none,Low,SLE-20820,Low,Medium,High
+SLE-22011,495848,suntorytimed,fbui,Done,Should Have,BenniBrunner,fbui,#N/A,SLE-20926,Low,Medium,High
+SLE-22007,495844,suntorytimed,#N/A,Open,Should Have,locilka,none,Medium,SLE-20928,Low,Medium,High
+SLE-22003,495840,suntorytimed,pgajdos,Done,Should Have,kstreitova,pgajdos,Medium,SLE-20953,Low,Medium,High
+SLE-22000,495837,suntorytimed,pgajdos,Done,Could Have,kstreitova,pgajdos,Low,SLE-20954,Low,Medium,High
+SLE-21997,495834,suntorytimed,pgajdos,Done,Could Have,kstreitova,pgajdos,Low,SLE-20955,Low,Medium,High
+SLE-21994,495831,suntorytimed,pgajdos,Done,Could Have,kstreitova,pgajdos,Low,SLE-20956,Low,Medium,High
+SLE-21991,495828,suntorytimed,pgajdos,Done,Could Have,kstreitova,pgajdos,Low,SLE-20958,Low,Medium,High
+SLE-21988,495825,suntorytimed,pgajdos,Done,Could Have,kstreitova,pgajdos,Medium,SLE-20959,Low,Medium,High
+SLE-21985,495822,suntorytimed,pgajdos,Done,Could Have,kstreitova,pgajdos,Low,SLE-20960,Low,Medium,High
+SLE-21982,495819,suntorytimed,jsikes,Open,Could Have,kstreitova,none,Medium,SLE-21012,Low,Medium,High
+SLE-21979,495816,suntorytimed,jsikes,Done,Could Have,kstreitova,pgajdos,Medium,SLE-21013,Low,Medium,High
+SLE-21976,495813,suntorytimed,jsikes,Done,Could Have,kstreitova,pgajdos,Low,SLE-21014,Low,Medium,High
+SLE-21972,495809,suntorytimed,mlandres,In Progress,Should Have,j_renner,none,#N/A,SLE-21329,Low,Medium,High
+SLE-21968,495805,suntorytimed,mlandres,Planning,Could Have,j_renner,none,#N/A,SLE-21333,Low,Medium,High
+SLE-21965,495802,suntorytimed,sbrabec,Done,Should Have,kstreitova,sbrabec,Low,SLE-21526,Low,Medium,High
+SLE-21961,495798,suntorytimed,jsikes,Open,Should Have,kstreitova,none,Medium,SLE-21527,Low,Medium,High
+SLE-21959,495796,suntorytimed,#N/A,Open,Must Have,jrecord,none,#N/A,SLE-21579,Low,Medium,High
+SLE-21957,495794,suntorytimed,#N/A,Planning,Could Have,kstreitova,none,#N/A,SLE-21672,Low,Medium,High
+SLE-21953,495790,suntorytimed,tsaupe,In Progress,Should Have,BenniBrunner,tsaupe,Medium,SLE-21673,Low,Medium,High
+SLE-21949,495786,suntorytimed,#N/A,In Progress,Should Have,#N/A,none,Medium,SLE-21674,Low,Medium,High
+SLE-21946,495783,suntorytimed,tsaupe,Open,Wish to Have,BenniBrunner,tsaupe,Low,SLE-21675,Low,Medium,High
+SLE-21943,495780,suntorytimed,#N/A,Done,Could Have,BenniBrunner,BenniBrunner,Low,SLE-21676,Low,Medium,High
+SLE-21940,495777,suntorytimed,#N/A,Done,Could Have,BenniBrunner,BenniBrunner,Low,SLE-21677,Low,Medium,High
+SLE-21937,495774,suntorytimed,jmoellers,Done,Should Have,BenniBrunner,jmoellers,Medium,SLE-21678,Low,Medium,High
+SLE-21934,495771,suntorytimed,jsikes,Done,Should Have,kstreitova,pgajdos,Medium,SLE-21913,Low,Medium,High
+SLE-21931,495768,suntorytimed,#N/A,Planning,Could Have,sreeves1,none,#N/A,SLE-18534,#N/A,#N/A,#N/A
+SLE-21929,495766,suntorytimed,sax2,Planning,Could Have,kvanderveer,none,#N/A,SLE-20338,Low,Medium,High
+SLE-21925,495762,suntorytimed,#N/A,Rejected,Should Have,locilka,none,#N/A,SLE-20552,Low,Medium,High
+SLE-21915,495396,suntorytimed,mcepl,Done,Should Have,#N/A,none,#N/A,SLE-21914,Low,Medium,High
+SLE-21903,495297,suntorytimed,dspinella,Done,Wish to Have,kstreitova,none,Low,SLE-21046,Low,Medium,High
+SLE-22214,497292,fcrozat,#N/A,Done,Should Have,#N/A,none,#N/A,SLE-22134,Low,Medium,High
+SLE-22207,497255,aherzig,#N/A,Planning,Must Have,#N/A,none,#N/A,SLE-21576,Low,Medium,High
+SLE-22197,497170,aherzig,fcrozat,Planning,Must Have,#N/A,none,#N/A,SLE-22187,Low,Medium,High
+SLE-22183,497100,ihno,#N/A,Done,Should Have,sfent,markkp,#N/A,SLE-21645,Low,Medium,High
+SLE-22180,497089,jsrain,#N/A,Done,Should Have,locilka,#N/A,#N/A,SLE-17026,#N/A,#N/A,#N/A
+SLE-22176,497075,ihno,#N/A,Done,Must Have,#N/A,none,#N/A,SLE-18632,#N/A,#N/A,#N/A
+SLE-22175,497057,suntorytimed,#N/A,Planning,Should Have,BenniBrunner,none,#N/A,SLE-20535,Low,Medium,High
+SLE-22174,497056,suntorytimed,#N/A,Planning,Should Have,BenniBrunner,none,#N/A,SLE-20535,Low,Medium,High
+SLE-22172,496957,horon,#N/A,Blocked,Must Have,locilka,none,#N/A,SLE-21644,Low,Medium,High
+SLE-22140,496663,aginies,#N/A,In Progress,Should Have,#N/A,none,#N/A,SLE-22137,Low,Medium,High
+SLE-22125,496035,suntorytimed,sbrabec,Done,Should Have,kstreitova,none,Low,SLE-21113,Low,Medium,High
+SLE-22122,496032,suntorytimed,pmonrealgonzalez,Done,Could Have,kstreitova,none,Low,SLE-21114,Low,Medium,High
+SLE-22119,496026,suntorytimed,sbrabec,Done,Should Have,kstreitova,sbrabec,Low,SLE-21116,Low,Medium,High
+SLE-22116,496022,suntorytimed,dspinella,Open,Could Have,kstreitova,none,Low,SLE-21117,Low,Medium,High
+SLE-22113,496018,suntorytimed,sbrabec,Rejected,Should Have,kstreitova,none,#N/A,SLE-21100,Low,Medium,High
+SLE-22297,498192,Jeffreycheung,#N/A,In Progress,Should Have,joeyli,shunghsiyu,#N/A,SLE-22170,Low,Medium,High
+SLE-22110,496015,suntorytimed,dspinella,Done,Could Have,kstreitova,none,Low,SLE-21101,Low,Medium,High
+SLE-22107,496012,suntorytimed,dspinella,Done,Could Have,kstreitova,none,Low,SLE-21102,Low,Medium,High
+SLE-22104,496009,suntorytimed,sbrabec,Done,Could Have,kstreitova,sbrabec,Low,SLE-21106,Low,Medium,High
+SLE-22103,496008,suntorytimed,#N/A,Rejected,Should Have,yfjiang,none,#N/A,SLE-21107,Low,Medium,High
+SLE-22102,496007,suntorytimed,#N/A,In Progress,Should Have,Neyleah,none,#N/A,SLE-21107,Low,Medium,High
+SLE-22101,496006,suntorytimed,#N/A,In Progress,Should Have,locilka,none,Low,SLE-21107,Low,Medium,High
+SLE-22097,496002,suntorytimed,sbrabec,Done,Should Have,kstreitova,sbrabec,Medium,SLE-21107,Low,Medium,High
+SLE-21309,492786,suntorytimed,#N/A,In Progress,Should Have,locilka,none,High,SLE-21308,Low,Medium,High
+SLE-21292,492759,Jeffreycheung,duwe,Open,Could Have,ptesarik,duwe,#N/A,SLE-20906,Low,Medium,High
+SLE-21290,492757,Jeffreycheung,duwe,Open,Could Have,ptesarik,duwe,#N/A,SLE-20907,Low,Medium,High
+SLE-21284,492733,Jeffreycheung,duwe,Done,Could Have,ptesarik,duwe,#N/A,SLE-18956,#N/A,#N/A,#N/A
+SLE-21279,492695,suntorytimed,#N/A,Planning,Should Have,#N/A,none,#N/A,SLE-20810,Low,Medium,High
+SLE-21276,492685,suntorytimed,rwill,Open,Wish to Have,BenniBrunner,rwill,#N/A,SLE-20533,Low,Medium,High
+SLE-21226,492575,msmeissn,jsikes,Planning,Must Have,pgonin,mosquetero,#N/A,SLE-21157,Low,Medium,High
+SLE-21221,492567,katiarojas,pmonrealgonzalez,Open,Must Have,kstreitova,none,High,SLE-21126,Low,Medium,High
+SLE-21219,492565,katiarojas,pmonrealgonzalez,Open,Must Have,kstreitova,none,Medium,SLE-21128,Low,Medium,High
+SLE-21215,492561,katiarojas,hpjansson,Planning,Must Have,sreeves1,none,#N/A,SLE-21130,Low,Medium,High
+SLE-21213,492559,katiarojas,duwe,Planning,Must Have,ptesarik,none,#N/A,SLE-21132,Low,Medium,High
+SLE-21211,492557,katiarojas,jsikes,Open,Must Have,kstreitova,jsikes,Critical,SLE-21124,Low,Medium,High
+SLE-21120,492178,#N/A,#N/A,Rejected,Could Have,claudiofontana,none,#N/A,SLE-19301,#N/A,#N/A,#N/A
+SLE-21118,492176,#N/A,#N/A,Planning,Could Have,claudiofontana,#N/A,#N/A,SLE-19214,#N/A,#N/A,#N/A
+SLE-21097,492069,#N/A,bpetkov,Done,Should Have,mhocko,#N/A,#N/A,SLE-19031,#N/A,#N/A,#N/A
+SLE-21071,491983,#N/A,#N/A,Planning,Must Have,kukuk,none,#N/A,SLE-18822,#N/A,#N/A,#N/A
+SLE-21070,491982,#N/A,tsaupe,Open,Must Have,BenniBrunner,none,#N/A,SLE-18822,#N/A,#N/A,#N/A
+SLE-21069,491981,#N/A,michael-chang,Open,Must Have,BenniBrunner,none,#N/A,SLE-18822,#N/A,#N/A,#N/A
+SLE-21066,491978,#N/A,#N/A,Rejected,Must Have,locilka,none,#N/A,SLE-18822,#N/A,#N/A,#N/A
+SLE-21061,491963,#N/A,#N/A,Open,Could Have,locilka,none,Medium,SLE-20924,Low,Medium,High
+SLE-21053,491928,#N/A,joeyli,In Progress,Should Have,joeyli,none,#N/A,SLE-21044,Low,Medium,High
+SLE-21040,491898,#N/A,pmonrealgonzalez,Done,Could Have,kstreitova,pmonrealgonzalez,Low,SLE-16733,#N/A,#N/A,#N/A
+SLE-21038,491894,#N/A,#N/A,Planning,Should Have,kukuk,lnussel,#N/A,SLE-15838,#N/A,#N/A,#N/A
+SLE-21030,491859,#N/A,LPechacek,Done,Must Have,LPechacek,#N/A,High,SLE-17360,#N/A,#N/A,#N/A
+SLE-21018,491747,rtsvetkov,#N/A,Done,Should Have,sfent,rmax,Medium,SLE-21017,Low,Medium,High
+SLE-21010,491735,#N/A,claudiofontana,Rejected,Could Have,claudiofontana,none,#N/A,SLE-19298,#N/A,#N/A,#N/A
+SLE-21008,491731,#N/A,claudiofontana,Open,Could Have,claudiofontana,dfaggioli,#N/A,SLE-19296,#N/A,#N/A,#N/A
+SLE-21006,491728,#N/A,#N/A,Rejected,Could Have,ptesarik,none,#N/A,SLE-18951,#N/A,#N/A,#N/A
+SLE-20998,491718,#N/A,sbradnick,Planning,Could Have,#N/A,none,#N/A,SLE-18068,#N/A,#N/A,#N/A
+SLE-20977,491684,#N/A,#N/A,Rejected,Could Have,claudiofontana,#N/A,#N/A,SLE-19039,#N/A,#N/A,#N/A
+SLE-20973,491680,#N/A,#N/A,Planning,Could Have,claudiofontana,none,#N/A,SLE-19297,#N/A,#N/A,#N/A
+SLE-20971,491678,#N/A,jsikes,Open,Should Have,kstreitova,jsikes,#N/A,SLE-8061,Medium,#N/A,#N/A
+SLE-20965,491672,#N/A,#N/A,In Progress,Could Have,claudiofontana,lin_ma,#N/A,SLE-19779,#N/A,#N/A,#N/A
+SLE-20963,491669,#N/A,#N/A,Rejected,Could Have,claudiofontana,none,#N/A,SLE-18934,#N/A,#N/A,#N/A
+SLE-20961,491667,#N/A,jsikes,Done,Must Have,kstreitova,jsikes,High,SLE-19640,#N/A,#N/A,#N/A
+SLE-21330,492955,Jeffreycheung,#N/A,Blocked,Must Have,BenniBrunner,rwill,#N/A,SLE-20054,Low,Medium,High
+SLE-21324,492881,msmeissn,msmeissn,Done,Could Have,#N/A,#N/A,#N/A,SLE-13588,#N/A,#N/A,#N/A
+SLE-21320,492859,LPechacek,mbenes,In Progress,Must Have,mbenes,#N/A,Low,SLE-17360,#N/A,#N/A,#N/A
+SLE-21318,492851,Jeffreycheung,jirislaby,Done,Should Have,mhocko,none,Medium,SLE-21315,Low,Medium,High
+SLE-21337,492967,fcrozat,#N/A,Planning,Must Have,dbanschbach,mlschroe,#N/A,SLE-20931,Low,Medium,High
+SLE-21168,492352,#N/A,tiwai,Done,Could Have,ptesarik,tiwai,#N/A,SLE-21166,Low,Medium,High
+SLE-21164,492241,#N/A,#N/A,Rejected,Could Have,sreeves1,none,#N/A,SLE-20408,Low,Medium,High
+SLE-21162,492239,#N/A,#N/A,Planning,Should Have,#N/A,none,#N/A,SLE-20297,Low,Medium,High
+SLE-21151,492215,#N/A,#N/A,Open,Must Have,claudiofontana,lyan,#N/A,SLE-21134,Low,Medium,High
+SLE-9928,407221,#N/A,#N/A,Open,Could Have,hreinecke,mkubecek,#N/A,SLE-9010,Medium,#N/A,#N/A
+SLE-20050,488588,#N/A,#N/A,Done,Must Have,ptesarik,duwe,#N/A,SLE-20039,#N/A,#N/A,#N/A
+SLE-20025,488403,#N/A,#N/A,Blocked,Should Have,mhocko,none,Medium,SLE-20002,#N/A,#N/A,#N/A
+SLE-20020,488356,#N/A,joeyli,In Progress,Should Have,joeyli,#N/A,#N/A,SLE-17651,#N/A,#N/A,#N/A
+SLE-20018,488354,#N/A,#N/A,Rejected,Should Have,j_renner,mlandres,#N/A,SLE-17651,#N/A,#N/A,#N/A
+SLE-19998,488134,#N/A,alarrosa,Open,Must Have,sreeves1,none,Low,SLE-19966,#N/A,#N/A,#N/A
+SLE-19981,488093,#N/A,joro,Done,Could Have,mhocko,none,#N/A,SLE-19491,#N/A,#N/A,#N/A
+SLE-19907,487714,holgisms,tsbogend,Open,Must Have,hreinecke,tsbogend,Medium,SLE-18985,#N/A,#N/A,#N/A
+SLE-19903,487710,holgisms,NMoreyChaisemartin,Done,Must Have,hreinecke,NMoreyChaisemartin,Medium,SLE-19249,#N/A,#N/A,#N/A
+SLE-19895,487702,#N/A,joeyli,In Progress,Should Have,joeyli,none,#N/A,SLE-19651,#N/A,#N/A,#N/A
+SLE-19893,487700,#N/A,joeyli,In Progress,Should Have,joeyli,none,#N/A,SLE-19652,#N/A,#N/A,#N/A
+SLE-19891,487698,holgisms,lee_duncan,Planning,Must Have,hreinecke,lee_duncan,Medium,SLE-18983,#N/A,#N/A,#N/A
+SLE-19889,487696,holgisms,tsbogend,Open,Must Have,hreinecke,tsbogend,Medium,SLE-18984,#N/A,#N/A,#N/A
+SLE-19887,487694,holgisms,lee_duncan,Done,Must Have,hreinecke,lee_duncan,Medium,SLE-18986,#N/A,#N/A,#N/A
+SLE-19885,487692,holgisms,tsbogend,Open,Must Have,hreinecke,tsbogend,Medium,SLE-18987,#N/A,#N/A,#N/A
+SLE-19883,487690,holgisms,NMoreyChaisemartin,Done,Must Have,hreinecke,NMoreyChaisemartin,Medium,SLE-18988,#N/A,#N/A,#N/A
+SLE-19881,487688,holgisms,lee_duncan,Done,Should Have,hreinecke,lee_duncan,Medium,SLE-18989,#N/A,#N/A,#N/A
+SLE-19879,487686,holgisms,tsbogend,Open,Should Have,hreinecke,tsbogend,Medium,SLE-18990,#N/A,#N/A,#N/A
+SLE-19877,487684,holgisms,tsbogend,Open,Should Have,hreinecke,tsbogend,Medium,SLE-18992,#N/A,#N/A,#N/A
+SLE-19875,487682,holgisms,dkirjanov,Done,Must Have,hreinecke,dkirjanov,Medium,SLE-19001,#N/A,#N/A,#N/A
+SLE-19873,487680,holgisms,lee_duncan,Done,Must Have,hreinecke,lee_duncan,Medium,SLE-19002,#N/A,#N/A,#N/A
+SLE-19871,487678,holgisms,lee_duncan,Done,Must Have,hreinecke,lee_duncan,Medium,SLE-19003,#N/A,#N/A,#N/A
+SLE-19869,487676,holgisms,NMoreyChaisemartin,Done,Must Have,hreinecke,NMoreyChaisemartin,Medium,SLE-19259,#N/A,#N/A,#N/A
+SLE-19866,487673,holgisms,NMoreyChaisemartin,Done,Must Have,hreinecke,NMoreyChaisemartin,Medium,SLE-19260,#N/A,#N/A,#N/A
+SLE-19865,487672,holgisms,NMoreyChaisemartin,Done,Must Have,hreinecke,NMoreyChaisemartin,Low,SLE-19261,#N/A,#N/A,#N/A
+SLE-19861,487668,holgisms,tiwai,Done,Must Have,ptesarik,tiwai,#N/A,SLE-18993,#N/A,#N/A,#N/A
+SLE-19859,487666,holgisms,mkubecek,Open,Must Have,hreinecke,mkubecek,Medium,SLE-18994,#N/A,#N/A,#N/A
+SLE-19857,487664,holgisms,wagi,Open,Must Have,hreinecke,wagi,Medium,SLE-18996,#N/A,#N/A,#N/A
+SLE-19855,487662,holgisms,dkirjanov,In Progress,Must Have,hreinecke,dkirjanov,Medium,SLE-18997,#N/A,#N/A,#N/A
+SLE-19853,487660,holgisms,dkirjanov,Open,Must Have,hreinecke,dkirjanov,Medium,SLE-18998,#N/A,#N/A,#N/A
+SLE-19851,487658,holgisms,NMoreyChaisemartin,Done,Must Have,hreinecke,NMoreyChaisemartin,Medium,SLE-18999,#N/A,#N/A,#N/A
+SLE-19849,487656,holgisms,dkirjanov,Open,Must Have,hreinecke,dkirjanov,Medium,SLE-19000,#N/A,#N/A,#N/A
+SLE-19847,487654,holgisms,lee_duncan,In Progress,Must Have,hreinecke,lee_duncan,Medium,SLE-19263,#N/A,#N/A,#N/A
+SLE-19845,487652,holgisms,#N/A,Done,Must Have,claudiofontana,jfehlig,#N/A,SLE-19264,#N/A,#N/A,#N/A
+SLE-19843,487650,holgisms,#N/A,Done,Must Have,pgonin,mosquetero,#N/A,SLE-19265,#N/A,#N/A,#N/A
+SLE-19841,487648,holgisms,NMoreyChaisemartin,Done,Must Have,hreinecke,NMoreyChaisemartin,Medium,SLE-19266,#N/A,#N/A,#N/A
+SLE-19839,487646,holgisms,mkubecek,Open,Must Have,hreinecke,mkubecek,Medium,SLE-19267,#N/A,#N/A,#N/A
+SLE-19837,487644,holgisms,NMoreyChaisemartin,Done,Must Have,hreinecke,NMoreyChaisemartin,Medium,SLE-19268,#N/A,#N/A,#N/A
+SLE-19835,487642,holgisms,jsikes,Done,Must Have,kstreitova,jsikes,High,SLE-19269,#N/A,#N/A,#N/A
+SLE-19833,487640,holgisms,NMoreyChaisemartin,Open,Must Have,hreinecke,NMoreyChaisemartin,Medium,SLE-19270,#N/A,#N/A,#N/A
+SLE-19831,487638,holgisms,mkubecek,Open,Must Have,hreinecke,mkubecek,Medium,SLE-19271,#N/A,#N/A,#N/A
+SLE-19829,487636,holgisms,mbrugger,Done,Must Have,ptesarik,mbrugger,#N/A,SLE-19272,#N/A,#N/A,#N/A
+SLE-19827,487634,holgisms,lee_duncan,Planning,Must Have,hreinecke,lee_duncan,Medium,SLE-18981,#N/A,#N/A,#N/A
+SLE-19823,487630,holgisms,NMoreyChaisemartin,Done,Must Have,hreinecke,NMoreyChaisemartin,Medium,SLE-18982,#N/A,#N/A,#N/A
+SLE-19821,487628,holgisms,tsbogend,Open,Must Have,hreinecke,tsbogend,Medium,SLE-18980,#N/A,#N/A,#N/A
+SLE-19819,487626,holgisms,dkirjanov,Open,Must Have,hreinecke,dkirjanov,Low,SLE-19004,#N/A,#N/A,#N/A
+SLE-19817,487624,holgisms,dkirjanov,Open,Must Have,hreinecke,dkirjanov,Low,SLE-19005,#N/A,#N/A,#N/A
+SLE-19815,487622,holgisms,hreinecke,In Progress,Should Have,hreinecke,#N/A,Low,SLE-19006,#N/A,#N/A,#N/A
+SLE-19813,487620,holgisms,hreinecke,In Progress,Should Have,hreinecke,hreinecke,Low,SLE-19007,#N/A,#N/A,#N/A
+SLE-19811,487618,holgisms,dkirjanov,Done,Must Have,hreinecke,dkirjanov,Medium,SLE-19008,#N/A,#N/A,#N/A
+SLE-19809,487616,holgisms,dkirjanov,Open,Must Have,hreinecke,dkirjanov,Medium,SLE-19009,#N/A,#N/A,#N/A
+SLE-19807,487614,holgisms,lee_duncan,Done,Must Have,hreinecke,lee_duncan,Medium,SLE-19010,#N/A,#N/A,#N/A
+SLE-19805,487612,holgisms,lee_duncan,Planning,Must Have,hreinecke,lee_duncan,Medium,SLE-19011,#N/A,#N/A,#N/A
+SLE-19803,487610,holgisms,lee_duncan,Planning,Must Have,hreinecke,lee_duncan,Medium,SLE-19012,#N/A,#N/A,#N/A
+SLE-19801,487608,holgisms,wagi,Open,Must Have,hreinecke,wagi,Medium,SLE-19013,#N/A,#N/A,#N/A
+SLE-19799,487606,a_faerber,mbrugger,Planning,Must Have,ptesarik,mbrugger,#N/A,SLE-19246,#N/A,#N/A,#N/A
+SLE-19797,487604,holgisms,tsbogend,Open,Must Have,hreinecke,tsbogend,Medium,SLE-19247,#N/A,#N/A,#N/A
+SLE-19795,487602,holgisms,NMoreyChaisemartin,Done,Must Have,hreinecke,NMoreyChaisemartin,Medium,SLE-19252,#N/A,#N/A,#N/A
+SLE-19793,487600,holgisms,tsbogend,In Progress,Must Have,hreinecke,tsbogend,Medium,SLE-19253,#N/A,#N/A,#N/A
+SLE-19791,487598,holgisms,tsbogend,Open,Must Have,hreinecke,tsbogend,Medium,SLE-19250,#N/A,#N/A,#N/A
+SLE-19789,487596,holgisms,mbrugger,Done,Should Have,ptesarik,mbrugger,#N/A,SLE-19248,#N/A,#N/A,#N/A
+SLE-19787,487594,holgisms,tsbogend,Open,Must Have,hreinecke,tsbogend,Medium,SLE-19254,#N/A,#N/A,#N/A
+SLE-19785,487592,holgisms,tsbogend,Open,Must Have,hreinecke,tsbogend,Medium,SLE-19255,#N/A,#N/A,#N/A
+SLE-19783,487590,holgisms,tsbogend,In Progress,Must Have,hreinecke,tsbogend,Medium,SLE-19256,#N/A,#N/A,#N/A
+SLE-19774,487575,#N/A,tdz,Done,Could Have,ptesarik,tdz,#N/A,SLE-19299,#N/A,#N/A,#N/A
+SLE-19772,487573,#N/A,sfent,Planning,Should Have,#N/A,#N/A,#N/A,SLE-10249,#N/A,#N/A,#N/A
+SLE-19770,487569,#N/A,sfent,Planning,Should Have,#N/A,#N/A,#N/A,SLE-9492,Low,High,Very High
+SLE-19766,487515,#N/A,jsikes,Open,Could Have,kstreitova,jsikes,High,SLE-19742,#N/A,#N/A,#N/A
+SLE-19756,487498,#N/A,jsikes,Planning,Could Have,kstreitova,jsikes,#N/A,SLE-19044,#N/A,#N/A,#N/A
+SLE-19754,487496,#N/A,pgajdos,Done,Could Have,kstreitova,pgajdos,Low,SLE-17941,#N/A,#N/A,#N/A
+SLE-20149,489025,#N/A,patrikjakobsson,In Progress,Could Have,ptesarik,#N/A,#N/A,SLE-18964,#N/A,#N/A,#N/A
+SLE-20146,489003,holgisms,#N/A,Done,Must Have,pgonin,none,#N/A,SLE-18995,#N/A,#N/A,#N/A
+SLE-20141,488987,#N/A,#N/A,Planning,Should Have,yfjiang,none,#N/A,SLE-18860,#N/A,#N/A,#N/A
+SLE-20137,488973,#N/A,dmulder,In Progress,Could Have,jmcdough,none,Low,SLE-18457,#N/A,#N/A,#N/A
+SLE-20135,488970,#N/A,StevenK,Planning,Could Have,dirkmueller,none,#N/A,SLE-19968,#N/A,#N/A,#N/A
+SLE-20130,488953,#N/A,tsbogend,Open,Must Have,hreinecke,tsbogend,Medium,SLE-18263,#N/A,#N/A,#N/A
+SLE-20128,488951,#N/A,joeyli,In Progress,Should Have,joeyli,none,#N/A,SLE-19995,#N/A,#N/A,#N/A
+SLE-20123,488933,#N/A,fbui,Done,Should Have,BenniBrunner,fbui,High,SLE-19743,#N/A,#N/A,#N/A
+SLE-20121,488931,#N/A,mcepl,Done,Should Have,kstreitova,none,Low,SLE-19967,#N/A,#N/A,#N/A
+SLE-20119,488929,#N/A,qzhao,In Progress,Must Have,yfjiang,none,Medium,SLE-20012,#N/A,#N/A,#N/A
+SLE-20117,488927,#N/A,tsaupe,Done,Must Have,BenniBrunner,tsaupe,Low,SLE-20015,#N/A,#N/A,#N/A
+SLE-20113,488923,#N/A,#N/A,In Progress,Must Have,kstreitova,none,Medium,SLE-20021,#N/A,#N/A,#N/A
+SLE-20111,488921,#N/A,msmeissn,In Progress,Must Have,smanolov,jsegitz,#N/A,SLE-20022,#N/A,#N/A,#N/A
+SLE-20107,488917,#N/A,jsegitz,Open,Should Have,smanolov,jsegitz,#N/A,SLE-17857,#N/A,#N/A,#N/A
+SLE-19442,486291,#N/A,#N/A,Done,Could Have,ptesarik,tiwai,#N/A,SLE-19360,#N/A,#N/A,#N/A
+SLE-19440,486289,#N/A,sndirsch,Done,Could Have,ptesarik,sndirsch,#N/A,SLE-19363,#N/A,#N/A,#N/A
+SLE-19438,486287,#N/A,#N/A,Done,Could Have,ptesarik,oneukum,#N/A,SLE-19358,#N/A,#N/A,#N/A
+SLE-19436,486285,#N/A,#N/A,Done,Could Have,ptesarik,oneukum,#N/A,SLE-19356,#N/A,#N/A,#N/A
+SLE-19434,486283,#N/A,#N/A,In Progress,Could Have,ptesarik,oneukum,#N/A,SLE-19355,#N/A,#N/A,#N/A
+SLE-19432,486281,#N/A,#N/A,Done,Could Have,ptesarik,tiwai,#N/A,SLE-19362,#N/A,#N/A,#N/A
+SLE-19430,486279,#N/A,oneukum,Done,Could Have,ptesarik,oneukum,#N/A,SLE-19359,#N/A,#N/A,#N/A
+SLE-19425,486257,#N/A,tsbogend,Done,Should Have,hreinecke,tsbogend,Low,SLE-19242,#N/A,#N/A,#N/A
+SLE-19423,486214,#N/A,NMoreyChaisemartin,Done,Should Have,hreinecke,NMoreyChaisemartin,Medium,SLE-19294,#N/A,#N/A,#N/A
+SLE-19415,486206,#N/A,#N/A,Blocked,Must Have,ptesarik,michals,Medium,SLE-18137,#N/A,#N/A,#N/A
+SLE-19411,486202,#N/A,michals,Blocked,Must Have,ptesarik,michals,Low,SLE-18125,#N/A,#N/A,#N/A
+SLE-19409,486200,#N/A,jsikes,Open,Must Have,kstreitova,none,#N/A,SLE-18136,#N/A,#N/A,#N/A
+SLE-19407,486198,#N/A,#N/A,Open,Must Have,ptesarik,michals,Medium,SLE-18140,#N/A,#N/A,#N/A
+SLE-19405,486196,#N/A,#N/A,Open,Must Have,ptesarik,none,Low,SLE-18141,#N/A,#N/A,#N/A
+SLE-19403,486194,#N/A,michael-chang,Open,Must Have,BenniBrunner,none,High,SLE-18144,#N/A,#N/A,#N/A
+SLE-19399,486190,#N/A,pluskalm,In Progress,Must Have,pluskalm,pluskalm,#N/A,SLE-18186,#N/A,#N/A,#N/A
+SLE-19397,486188,#N/A,#N/A,Blocked,Must Have,ptesarik,michals,Low,SLE-18187,#N/A,#N/A,#N/A
+SLE-19393,486184,#N/A,michals,In Progress,Must Have,ptesarik,none,#N/A,SLE-18189,#N/A,#N/A,#N/A
+SLE-19391,486182,#N/A,michals,In Progress,Must Have,ptesarik,michals,Low,SLE-18190,#N/A,#N/A,#N/A
+SLE-19387,486178,#N/A,cvoegl,Done,Must Have,NMoreyChaisemartin,cvoegl,#N/A,SLE-18192,#N/A,#N/A,#N/A
+SLE-19383,486174,#N/A,michals,Blocked,Must Have,ptesarik,michals,Low,SLE-18194,#N/A,#N/A,#N/A
+SLE-19381,486172,#N/A,#N/A,In Progress,Must Have,matz2,zxyyz,Low,SLE-18195,#N/A,#N/A,#N/A
+SLE-19379,486170,#N/A,michals,Blocked,Must Have,ptesarik,michals,Low,SLE-18196,#N/A,#N/A,#N/A
+SLE-19369,486148,#N/A,#N/A,Open,Could Have,claudiofontana,vulyanov,#N/A,SLE-18738,#N/A,#N/A,#N/A
+SLE-19353,486108,#N/A,tsbogend,Open,Should Have,hreinecke,tsbogend,Medium,SLE-19292,#N/A,#N/A,#N/A
+SLE-19351,486105,#N/A,tdz,Done,Should Have,ptesarik,tdz,#N/A,SLE-19293,#N/A,#N/A,#N/A
+SLE-19345,486098,#N/A,dkirjanov,Open,Should Have,hreinecke,dkirjanov,Medium,SLE-19241,#N/A,#N/A,#N/A
+SLE-19342,486093,#N/A,#N/A,Planning,Could Have,ptesarik,none,#N/A,SLE-18923,#N/A,#N/A,#N/A
+SLE-19339,486090,#N/A,#N/A,Planning,Could Have,ptesarik,none,#N/A,SLE-18927,#N/A,#N/A,#N/A
+SLE-19334,486085,#N/A,#N/A,Planning,Could Have,ptesarik,none,#N/A,SLE-18938,#N/A,#N/A,#N/A
+SLE-19330,486078,#N/A,jones_tony,Done,Could Have,mgorman,none,#N/A,SLE-18939,#N/A,#N/A,#N/A
+SLE-19328,486076,#N/A,bpetkov,Rejected,Could Have,mhocko,none,#N/A,SLE-18940,#N/A,#N/A,#N/A
+SLE-19326,486074,#N/A,#N/A,Blocked,Could Have,mhocko,none,#N/A,SLE-18941,#N/A,#N/A,#N/A
+SLE-19324,486072,#N/A,bpetkov,Rejected,Could Have,mhocko,none,Medium,SLE-18942,#N/A,#N/A,#N/A
+SLE-19322,486070,#N/A,#N/A,Rejected,Could Have,claudiofontana,none,#N/A,SLE-18943,#N/A,#N/A,#N/A
+SLE-19320,486068,#N/A,colyli,Open,Could Have,hreinecke,colyli,Medium,SLE-18944,#N/A,#N/A,#N/A
+SLE-19318,486066,#N/A,tiwai,Rejected,Could Have,ptesarik,tiwai,#N/A,SLE-18945,#N/A,#N/A,#N/A
+SLE-19316,486063,#N/A,#N/A,Blocked,Could Have,mhocko,none,Medium,SLE-18947,#N/A,#N/A,#N/A
+SLE-19314,486061,#N/A,#N/A,Rejected,Could Have,ptesarik,none,#N/A,SLE-18948,#N/A,#N/A,#N/A
+SLE-19312,486059,#N/A,#N/A,Rejected,Could Have,ptesarik,none,#N/A,SLE-18949,#N/A,#N/A,#N/A
+SLE-19310,486057,#N/A,bpetkov,Rejected,Could Have,mhocko,none,#N/A,SLE-18950,#N/A,#N/A,#N/A
+SLE-19284,485917,#N/A,fweisbec,In Progress,Must Have,mhocko,none,#N/A,SLE-18857,#N/A,#N/A,#N/A
+SLE-18590,483620,#N/A,ptesarik,In Progress,Must Have,ptesarik,ptesarik,#N/A,SLE-18521,#N/A,#N/A,#N/A
+SLE-18588,483618,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18520,#N/A,#N/A,#N/A
+SLE-18586,483616,#N/A,#N/A,Rejected,Must Have,ptesarik,none,#N/A,SLE-18519,#N/A,#N/A,#N/A
+SLE-18584,483614,#N/A,ptesarik,Open,Must Have,ptesarik,ptesarik,#N/A,SLE-18518,#N/A,#N/A,#N/A
+SLE-18582,483612,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18515,#N/A,#N/A,#N/A
+SLE-18580,483610,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18513,#N/A,#N/A,#N/A
+SLE-18578,483608,#N/A,ptesarik,Blocked,Must Have,ptesarik,ptesarik,#N/A,SLE-18512,#N/A,#N/A,#N/A
+SLE-18576,483606,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18511,#N/A,#N/A,#N/A
+SLE-18574,483604,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18510,#N/A,#N/A,#N/A
+SLE-18572,483602,#N/A,#N/A,Done,Must Have,sfent,markkp,Medium,SLE-18454,#N/A,#N/A,#N/A
+SLE-18570,483600,#N/A,#N/A,Done,Must Have,sfent,markkp,Medium,SLE-18453,#N/A,#N/A,#N/A
+SLE-18568,483598,#N/A,ptesarik,Under Review,Must Have,ptesarik,ptesarik,#N/A,SLE-18441,#N/A,#N/A,#N/A
+SLE-18566,483596,#N/A,jsikes,Planning,Must Have,kstreitova,jsikes,#N/A,SLE-18357,#N/A,#N/A,#N/A
+SLE-18564,483593,#N/A,#N/A,Done,Must Have,sfent,markkp,Medium,SLE-18334,#N/A,#N/A,#N/A
+SLE-18562,483591,#N/A,#N/A,Done,Must Have,sfent,markkp,Medium,SLE-18333,#N/A,#N/A,#N/A
+SLE-18558,483587,#N/A,ptesarik,In Progress,Must Have,ptesarik,ptesarik,#N/A,SLE-18331,#N/A,#N/A,#N/A
+SLE-18556,483585,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18330,#N/A,#N/A,#N/A
+SLE-18554,483583,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18329,#N/A,#N/A,#N/A
+SLE-18552,483581,#N/A,#N/A,Done,Must Have,sfent,markkp,#N/A,SLE-18328,#N/A,#N/A,#N/A
+SLE-18550,483579,#N/A,#N/A,Done,Must Have,sfent,markkp,Medium,SLE-18327,#N/A,#N/A,#N/A
+SLE-18548,483577,#N/A,#N/A,Done,Must Have,sfent,markkp,Medium,SLE-18326,#N/A,#N/A,#N/A
+SLE-18546,483575,#N/A,markkp,Blocked,Must Have,sfent,markkp,Medium,SLE-18324,#N/A,#N/A,#N/A
+SLE-18544,483573,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18323,#N/A,#N/A,#N/A
+SLE-18538,483457,#N/A,jfkw,Open,Should Have,sreeves1,jfkw,Medium,SLE-18320,#N/A,#N/A,#N/A
+SLE-18150,480886,#N/A,lee_duncan,Done,Must Have,hreinecke,lee_duncan,Medium,SLE-18121,#N/A,#N/A,#N/A
+SLE-18148,480875,#N/A,#N/A,Rejected,Should Have,matz2,#N/A,#N/A,SLE-16991,#N/A,#N/A,#N/A
+SLE-18146,480869,#N/A,#N/A,Done,Could Have,sfent,trenn,Medium,SLE-17697,#N/A,#N/A,#N/A
+SLE-18116,480588,#N/A,#N/A,Done,Must Have,mhocko,#N/A,#N/A,SLE-17360,#N/A,#N/A,#N/A
+SLE-19238,485855,#N/A,#N/A,Open,Could Have,claudiofontana,olh,#N/A,SLE-2972,Medium,Medium,Medium
+SLE-19236,485853,#N/A,#N/A,In Progress,Must Have,claudiofontana,kallan,#N/A,SLE-18356,#N/A,#N/A,#N/A
+SLE-19233,485750,#N/A,#N/A,In Progress,Must Have,locilka,#N/A,Medium,SLE-17578,#N/A,#N/A,#N/A
+SLE-19231,485664,#N/A,tdz,Open,Should Have,ptesarik,tdz,#N/A,SLE-18823,#N/A,#N/A,#N/A
+SLE-19225,485658,#N/A,joeyli,Done,Could Have,joeyli,none,#N/A,SLE-18522,#N/A,#N/A,#N/A
+SLE-19223,485656,#N/A,joeyli,Done,Could Have,joeyli,none,#N/A,SLE-18523,#N/A,#N/A,#N/A
+SLE-19221,485654,#N/A,joeyli,Done,Could Have,joeyli,none,#N/A,SLE-18524,#N/A,#N/A,#N/A
+SLE-19219,485652,#N/A,acho,Done,Could Have,joeyli,acho,#N/A,SLE-18497,#N/A,#N/A,#N/A
+SLE-19217,485650,#N/A,shunghsiyu,Done,Could Have,joeyli,shunghsiyu,#N/A,SLE-18805,#N/A,#N/A,#N/A
+SLE-19215,485648,#N/A,#N/A,Done,Could Have,sfent,cvoegl,Low,SLE-18908,#N/A,#N/A,#N/A
+SLE-19207,485623,#N/A,joro,In Progress,Could Have,mhocko,none,Low,SLE-18926,#N/A,#N/A,#N/A
+SLE-19201,485616,#N/A,jirislaby,Done,Could Have,mhocko,none,#N/A,SLE-18901,#N/A,#N/A,#N/A
+SLE-19199,485614,#N/A,bpetkov,In Progress,Could Have,mhocko,none,#N/A,SLE-18885,#N/A,#N/A,#N/A
+SLE-19197,485612,#N/A,mgorman,Done,Could Have,mhocko,none,Medium,SLE-18889,#N/A,#N/A,#N/A
+SLE-19183,485598,#N/A,#N/A,Rejected,Could Have,ptesarik,tiwai,#N/A,SLE-18891,#N/A,#N/A,#N/A
+SLE-19178,485560,#N/A,dspinella,Done,Could Have,kstreitova,dspinella,Low,SLE-18907,#N/A,#N/A,#N/A
+SLE-19176,485558,#N/A,jirislaby,Done,Could Have,mhocko,none,#N/A,SLE-18755,#N/A,#N/A,#N/A
+SLE-19172,485554,#N/A,colyli,Rejected,Could Have,hreinecke,colyli,Medium,SLE-18924,#N/A,#N/A,#N/A
+SLE-19166,485517,#N/A,bpetkov,Done,Could Have,mhocko,none,#N/A,SLE-18935,#N/A,#N/A,#N/A
+SLE-19162,485513,#N/A,tiwai,Done,Could Have,ptesarik,tiwai,#N/A,SLE-18899,#N/A,#N/A,#N/A
+SLE-19160,485511,#N/A,#N/A,Done,Could Have,sfent,trenn,Medium,SLE-18410,#N/A,#N/A,#N/A
+SLE-19154,485505,#N/A,tiwai,Done,Could Have,ptesarik,tiwai,#N/A,SLE-18397,#N/A,#N/A,#N/A
+SLE-19150,485501,#N/A,tiwai,Done,Could Have,ptesarik,tiwai,#N/A,SLE-18400,#N/A,#N/A,#N/A
+SLE-19148,485499,#N/A,tiwai,Done,Could Have,ptesarik,tiwai,#N/A,SLE-18403,#N/A,#N/A,#N/A
+SLE-19144,485495,#N/A,#N/A,Done,Could Have,mgorman,ggherdovich,#N/A,SLE-18408,#N/A,#N/A,#N/A
+SLE-19142,485493,#N/A,tiwai,Done,Could Have,ptesarik,tiwai,#N/A,SLE-18396,#N/A,#N/A,#N/A
+SLE-19134,485469,#N/A,#N/A,Done,Could Have,ptesarik,tiwai,#N/A,SLE-18961,#N/A,#N/A,#N/A
+SLE-19132,485467,#N/A,trenn,Done,Could Have,sfent,trenn,Medium,SLE-18392,#N/A,#N/A,#N/A
+SLE-19128,485443,#N/A,Jeffreycheung,Done,Could Have,sfent,trenn,Medium,SLE-18393,#N/A,#N/A,#N/A
+SLE-19122,485437,#N/A,#N/A,Done,Could Have,ptesarik,tiwai,#N/A,SLE-18389,#N/A,#N/A,#N/A
+SLE-19120,485435,#N/A,trenn,Done,Could Have,sfent,trenn,Medium,SLE-18906,#N/A,#N/A,#N/A
+SLE-19118,485433,#N/A,mvetter,In Progress,Could Have,bruclik,mvetter,#N/A,SLE-18910,#N/A,#N/A,#N/A
+SLE-19116,485431,#N/A,dkirjanov,In Progress,Must Have,hreinecke,dkirjanov,Low,SLE-18274,#N/A,#N/A,#N/A
+SLE-19114,485429,#N/A,dkirjanov,Done,Must Have,hreinecke,dkirjanov,Low,SLE-18275,#N/A,#N/A,#N/A
+SLE-19112,485427,#N/A,msmeissn,In Progress,Could Have,smanolov,msmeissn,#N/A,SLE-18911,#N/A,#N/A,#N/A
+SLE-19110,485425,#N/A,rwill,Open,Could Have,BenniBrunner,rwill,#N/A,SLE-18904,#N/A,#N/A,#N/A
+SLE-19108,485423,#N/A,#N/A,In Progress,Could Have,ptesarik,michals,#N/A,SLE-18909,#N/A,#N/A,#N/A
+SLE-19106,485421,#N/A,tsbogend,In Progress,Could Have,hreinecke,NMoreyChaisemartin,Medium,SLE-18381,#N/A,#N/A,#N/A
+SLE-19104,485419,#N/A,cvoegl,Done,Could Have,hreinecke,cvoegl,Medium,SLE-18905,#N/A,#N/A,#N/A
+SLE-19102,485417,#N/A,#N/A,Done,Could Have,sfent,trenn,Medium,SLE-18903,#N/A,#N/A,#N/A
+SLE-19100,485415,#N/A,tsbogend,In Progress,Could Have,hreinecke,tsbogend,Low,SLE-18386,#N/A,#N/A,#N/A
+SLE-19098,485413,#N/A,dkirjanov,Done,Could Have,hreinecke,dkirjanov,Medium,SLE-18382,#N/A,#N/A,#N/A
+SLE-19096,485411,#N/A,tsbogend,Open,Could Have,hreinecke,tsbogend,Medium,SLE-18380,#N/A,#N/A,#N/A
+SLE-19094,485409,#N/A,dkirjanov,Done,Could Have,hreinecke,dkirjanov,Medium,SLE-18379,#N/A,#N/A,#N/A
+SLE-19092,485407,#N/A,tsbogend,Done,Could Have,hreinecke,tsbogend,Medium,SLE-18378,#N/A,#N/A,#N/A
+SLE-19090,485405,#N/A,tsbogend,Done,Could Have,hreinecke,tsbogend,Medium,SLE-18375,#N/A,#N/A,#N/A
+SLE-19088,485403,#N/A,tsbogend,Open,Could Have,hreinecke,tsbogend,Medium,SLE-18376,#N/A,#N/A,#N/A
+SLE-19086,485401,#N/A,dkirjanov,Done,Could Have,hreinecke,dkirjanov,Medium,SLE-18377,#N/A,#N/A,#N/A
+SLE-19084,485399,#N/A,tsbogend,Done,Could Have,hreinecke,NMoreyChaisemartin,Low,SLE-18383,#N/A,#N/A,#N/A
+SLE-19082,485397,#N/A,tsbogend,Done,Could Have,hreinecke,tsbogend,Medium,SLE-18384,#N/A,#N/A,#N/A
+SLE-19080,485390,#N/A,tsbogend,Done,Could Have,hreinecke,tsbogend,Medium,SLE-18385,#N/A,#N/A,#N/A
+SLE-19078,485384,#N/A,tiwai,Done,Could Have,ptesarik,tiwai,#N/A,SLE-18879,#N/A,#N/A,#N/A
+SLE-19066,485365,#N/A,#N/A,Planning,Must Have,hreinecke,#N/A,#N/A,SLE-18118,#N/A,#N/A,#N/A
+SLE-19062,485361,#N/A,#N/A,Done,Could Have,mhocko,#N/A,#N/A,SLE-19024,#N/A,#N/A,#N/A
+SLE-19054,485353,#N/A,#N/A,Rejected,Should Have,mhocko,#N/A,#N/A,SLE-17677,#N/A,#N/A,#N/A
+SLE-19020,485304,#N/A,joeyli,Blocked,Should Have,joeyli,none,#N/A,SLE-18912,#N/A,#N/A,#N/A
+SLE-19014,485298,#N/A,neilbrown,Done,Should Have,goldwynr,#N/A,Low,SLE-18647,#N/A,#N/A,#N/A
+SLE-18918,485171,#N/A,pgajdos,Done,Should Have,kstreitova,pgajdos,Low,SLE-18816,#N/A,#N/A,#N/A
+SLE-18306,481956,#N/A,favogt,Planning,Should Have,#N/A,none,#N/A,SLE-18305,#N/A,#N/A,#N/A
+SLE-18302,481911,#N/A,cgrobertson,Done,Must Have,sreeves1,none,Low,SLE-18133,#N/A,#N/A,#N/A
+SLE-18298,481905,#N/A,ptesarik,Open,Must Have,ptesarik,ptesarik,Low,SLE-18131,#N/A,#N/A,#N/A
+SLE-18296,481903,#N/A,michals,Blocked,Must Have,ptesarik,michals,Low,SLE-18130,#N/A,#N/A,#N/A
+SLE-18294,481901,#N/A,michals,Blocked,Must Have,ptesarik,michals,Low,SLE-18129,#N/A,#N/A,#N/A
+SLE-18288,481895,#N/A,michals,Done,Must Have,ptesarik,michals,Low,SLE-18128,#N/A,#N/A,#N/A
+SLE-18286,481893,#N/A,#N/A,Open,Must Have,sfent,mtomaschewski,Medium,SLE-18127,#N/A,#N/A,#N/A
+SLE-19701,487341,#N/A,wagi,Open,Must Have,hreinecke,wagi,Medium,SLE-18155,#N/A,#N/A,#N/A
+SLE-19699,487334,#N/A,hreinecke,Blocked,Must Have,hreinecke,none,#N/A,SLE-18643,#N/A,#N/A,#N/A
+SLE-19697,487331,#N/A,michals,Blocked,Must Have,ptesarik,michals,Low,SLE-19557,#N/A,#N/A,#N/A
+SLE-19695,487329,#N/A,michals,Done,Must Have,ptesarik,michals,Low,SLE-19556,#N/A,#N/A,#N/A
+SLE-19678,487295,#N/A,#N/A,Planning,Could Have,pgonin,none,#N/A,SLE-18349,#N/A,#N/A,#N/A
+SLE-19670,487287,#N/A,#N/A,In Progress,Could Have,sfent,WernerFink,Medium,SLE-18234,#N/A,#N/A,#N/A
+SLE-19668,487285,#N/A,fstrba,Open,Must Have,bruclik,none,Low,SLE-18742,#N/A,#N/A,#N/A
+SLE-19666,487283,#N/A,#N/A,Planning,Should Have,ptesarik,none,#N/A,SLE-18744,#N/A,#N/A,#N/A
+SLE-19659,487276,#N/A,fbui,Blocked,Must Have,BenniBrunner,fbui,#N/A,SLE-17818,#N/A,#N/A,#N/A
+SLE-20177,489188,#N/A,gyribeiro,In Progress,Must Have,Neyleah,#N/A,Medium,SLE-16747,#N/A,#N/A,#N/A
+SLE-20175,489186,#N/A,gyribeiro,In Progress,Must Have,kstreitova,#N/A,High,SLE-16747,#N/A,#N/A,#N/A
+SLE-20169,489174,#N/A,wagi,Done,Must Have,hreinecke,wagi,Medium,SLE-18156,#N/A,#N/A,#N/A
+SLE-20167,489171,#N/A,michals,Blocked,Must Have,ptesarik,michals,Low,SLE-20056,Low,Medium,High
+SLE-20165,489169,#N/A,wagi,Done,Must Have,hreinecke,wagi,Medium,SLE-18172,#N/A,#N/A,#N/A
+SLE-20161,489165,#N/A,ptesarik,Open,Must Have,ptesarik,#N/A,#N/A,SLE-18185,#N/A,#N/A,#N/A
+SLE-20159,489163,#N/A,wagi,Open,Must Have,hreinecke,wagi,Medium,SLE-18153,#N/A,#N/A,#N/A
+SLE-20155,489159,#N/A,jsikes,In Progress,Must Have,kstreitova,none,Low,SLE-20068,Low,Medium,High
+SLE-20152,489156,#N/A,pmonrealgonzalez,Done,Must Have,kstreitova,pmonrealgonzalez,Low,SLE-20014,#N/A,#N/A,#N/A
+SLE-19472,486344,#N/A,firstyear,Open,Should Have,jmcdough,none,Medium,SLE-18627,#N/A,#N/A,#N/A
+SLE-19466,486333,#N/A,bpetkov,Done,Should Have,mhocko,none,Medium,SLE-19428,#N/A,#N/A,#N/A
+SLE-19451,486315,#N/A,pluskalm,Done,Could Have,ptesarik,#N/A,#N/A,SLE-19357,#N/A,#N/A,#N/A
+SLE-19446,486295,#N/A,sndirsch,Done,Could Have,ptesarik,sndirsch,#N/A,SLE-19361,#N/A,#N/A,#N/A
+SLE-19444,486293,#N/A,#N/A,Planning,Could Have,ptesarik,oneukum,#N/A,SLE-19357,#N/A,#N/A,#N/A
+SLE-19974,488063,#N/A,#N/A,In Progress,Could Have,#N/A,none,#N/A,SLE-11611,#N/A,#N/A,#N/A
+SLE-19956,487852,#N/A,#N/A,Rejected,Could Have,mhocko,none,#N/A,SLE-19497,#N/A,#N/A,#N/A
+SLE-19954,487850,#N/A,jones_tony,Blocked,Could Have,mgorman,jones_tony,Low,SLE-18946,#N/A,#N/A,#N/A
+SLE-19952,487785,holgisms,lee_duncan,Planning,Should Have,hreinecke,lee_duncan,Low,SLE-19273,#N/A,#N/A,#N/A
+SLE-19950,487783,holgisms,lee_duncan,Planning,Must Have,hreinecke,lee_duncan,Low,SLE-19275,#N/A,#N/A,#N/A
+SLE-19948,487781,holgisms,mwilck,Done,Must Have,hreinecke,mwilck,Medium,SLE-19276,#N/A,#N/A,#N/A
+SLE-19946,487779,holgisms,dkirjanov,Done,Must Have,hreinecke,dkirjanov,Medium,SLE-19283,#N/A,#N/A,#N/A
+SLE-19944,487777,holgisms,NMoreyChaisemartin,Done,Should Have,hreinecke,NMoreyChaisemartin,Medium,SLE-19251,#N/A,#N/A,#N/A
+SLE-19942,487775,#N/A,joro,In Progress,Could Have,mhocko,none,Medium,SLE-19924,#N/A,#N/A,#N/A
+SLE-19940,487773,#N/A,patrikjakobsson,Done,Could Have,ptesarik,patrikjakobsson,#N/A,SLE-19922,#N/A,#N/A,#N/A
+SLE-19938,487771,#N/A,patrikjakobsson,Done,Could Have,ptesarik,patrikjakobsson,#N/A,SLE-19919,#N/A,#N/A,#N/A
+SLE-19936,487769,#N/A,#N/A,Done,Should Have,claudiofontana,jziviani,#N/A,SLE-19923,#N/A,#N/A,#N/A
+SLE-19934,487767,#N/A,patrikjakobsson,Done,Could Have,ptesarik,patrikjakobsson,#N/A,SLE-19920,#N/A,#N/A,#N/A
+SLE-19932,487765,#N/A,patrikjakobsson,Done,Could Have,ptesarik,patrikjakobsson,#N/A,SLE-19921,#N/A,#N/A,#N/A
+SLE-19930,487763,holgisms,tsbogend,In Progress,Must Have,hreinecke,tsbogend,Medium,SLE-19282,#N/A,#N/A,#N/A
+SLE-19928,487761,holgisms,mwilck,Done,Must Have,hreinecke,mwilck,High,SLE-19277,#N/A,#N/A,#N/A
+SLE-19926,487759,holgisms,lee_duncan,Done,Must Have,hreinecke,lee_duncan,Low,SLE-19274,#N/A,#N/A,#N/A
+SLE-19748,487488,#N/A,#N/A,In Progress,Should Have,claudiofontana,tdz,#N/A,SLE-19733,#N/A,#N/A,#N/A
+SLE-19744,487480,#N/A,yfjiang,Open,Should Have,yfjiang,none,Low,SLE-18101,#N/A,#N/A,#N/A
+SLE-19738,487460,#N/A,alarrosa,In Progress,Could Have,sreeves1,none,Medium,SLE-18651,#N/A,#N/A,#N/A
+SLE-19736,487456,#N/A,LPechacek,Done,Should Have,suntorytimed,none,#N/A,SLE-19648,#N/A,#N/A,#N/A
+SLE-19730,487405,holgisms,mwilck,Done,Must Have,hreinecke,mwilck,Medium,SLE-18967,#N/A,#N/A,#N/A
+SLE-19728,487403,#N/A,hreinecke,Rejected,Should Have,hreinecke,hreinecke,#N/A,SLE-19686,#N/A,#N/A,#N/A
+SLE-19720,487395,holgisms,dkirjanov,Done,Must Have,hreinecke,dkirjanov,Medium,SLE-18971,#N/A,#N/A,#N/A
+SLE-19718,487393,holgisms,dkirjanov,Open,Must Have,hreinecke,dkirjanov,Low,SLE-18972,#N/A,#N/A,#N/A
+SLE-19716,487391,holgisms,lee_duncan,Done,Must Have,hreinecke,lee_duncan,Low,SLE-18973,#N/A,#N/A,#N/A
+SLE-19712,487387,#N/A,#N/A,Rejected,Should Have,BenniBrunner,rwill,#N/A,SLE-19689,#N/A,#N/A,#N/A
+SLE-19708,487383,holgisms,NMoreyChaisemartin,Done,Must Have,hreinecke,NMoreyChaisemartin,Low,SLE-18976,#N/A,#N/A,#N/A
+SLE-19706,487381,holgisms,tsbogend,Open,Must Have,hreinecke,tsbogend,Medium,SLE-18977,#N/A,#N/A,#N/A
+SLE-19704,487379,holgisms,dkirjanov,Done,Must Have,hreinecke,dkirjanov,Medium,SLE-18978,#N/A,#N/A,#N/A
+SLE-19726,487401,holgisms,mwilck,Done,Must Have,hreinecke,mwilck,Medium,SLE-18968,#N/A,#N/A,#N/A
+SLE-19724,487399,holgisms,lee_duncan,Done,Must Have,hreinecke,lee_duncan,Medium,SLE-18969,#N/A,#N/A,#N/A
+SLE-19722,487397,holgisms,wagi,In Progress,Must Have,hreinecke,wagi,Medium,SLE-18970,#N/A,#N/A,#N/A
+SLE-18461,483090,#N/A,jziviani,Open,Must Have,claudiofontana,jziviani,#N/A,SLE-18259,#N/A,#N/A,#N/A
+SLE-18411,482907,#N/A,msmeissn,Planning,Must Have,smanolov,msmeissn,#N/A,SLE-18270,#N/A,#N/A,#N/A
+SLE-18406,482902,#N/A,mgerstner,Done,Must Have,smanolov,mgerstner,#N/A,SLE-18269,#N/A,#N/A,#N/A
+SLE-18387,482883,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18264,#N/A,#N/A,#N/A
+SLE-18475,483105,#N/A,#N/A,Rejected,Must Have,claudiofontana,none,#N/A,SLE-18421,#N/A,#N/A,#N/A
+SLE-18473,483103,#N/A,#N/A,In Progress,Must Have,claudiofontana,none,#N/A,SLE-18439,#N/A,#N/A,#N/A
+SLE-18471,483101,#N/A,#N/A,Rejected,Must Have,claudiofontana,none,#N/A,SLE-18359,#N/A,#N/A,#N/A
+SLE-18469,483099,#N/A,#N/A,Planning,Must Have,claudiofontana,none,#N/A,SLE-18355,#N/A,#N/A,#N/A
+SLE-18467,483097,#N/A,aginies,Open,Must Have,claudiofontana,charlesa,#N/A,SLE-18262,#N/A,#N/A,#N/A
+SLE-18465,483095,#N/A,aginies,In Progress,Must Have,claudiofontana,charlesa,#N/A,SLE-18261,#N/A,#N/A,#N/A
+SLE-18463,483093,#N/A,aginies,Done,Must Have,claudiofontana,jfehlig,#N/A,SLE-18260,#N/A,#N/A,#N/A
+SLE-19647,487164,#N/A,dspinella,Done,Must Have,kstreitova,#N/A,Low,SLE-17360,#N/A,#N/A,#N/A
+SLE-19646,487160,#N/A,mwilck,In Progress,Must Have,hreinecke,mwilck,Medium,SLE-17360,#N/A,#N/A,#N/A
+SLE-19644,487158,#N/A,#N/A,Planning,Must Have,ptesarik,#N/A,#N/A,SLE-17360,#N/A,#N/A,#N/A
+SLE-19643,487157,#N/A,mkubecek,Open,Must Have,hreinecke,mkubecek,Medium,SLE-17360,#N/A,#N/A,#N/A
+SLE-19642,487155,#N/A,dspinella,In Progress,Must Have,kstreitova,#N/A,Medium,SLE-17360,#N/A,#N/A,#N/A
+SLE-19641,487154,#N/A,mkubecek,Open,Must Have,hreinecke,mkubecek,Medium,SLE-17360,#N/A,#N/A,#N/A
+SLE-19639,487150,#N/A,colyli,Open,Must Have,hreinecke,colyli,Medium,SLE-17360,#N/A,#N/A,#N/A
+SLE-19638,487149,#N/A,mwilck,In Progress,Must Have,hreinecke,mwilck,Medium,SLE-17360,#N/A,#N/A,#N/A
+SLE-19637,487148,#N/A,lee_duncan,Open,Must Have,hreinecke,lee_duncan,Medium,SLE-17360,#N/A,#N/A,#N/A
+SLE-19636,487146,#N/A,jankara,In Progress,Must Have,mgorman,#N/A,Low,SLE-17360,#N/A,#N/A,#N/A
+SLE-19635,487144,#N/A,ailiopoulos,Done,Must Have,goldwynr,#N/A,Low,SLE-17360,#N/A,#N/A,#N/A
+SLE-19634,487143,#N/A,goldwynr,In Progress,Must Have,goldwynr,#N/A,Medium,SLE-17360,#N/A,#N/A,#N/A
+SLE-19631,487124,#N/A,psimons,In Progress,Should Have,kstreitova,psimons,Low,SLE-17861,#N/A,#N/A,#N/A
+SLE-19627,487120,#N/A,#N/A,In Progress,Must Have,matz2,rguenther,Medium,SLE-19620,#N/A,#N/A,#N/A
+SLE-19623,487112,#N/A,#N/A,Rejected,Could Have,mhocko,none,#N/A,SLE-19503,#N/A,#N/A,#N/A
+SLE-19616,487104,#N/A,#N/A,Rejected,Could Have,mhocko,none,#N/A,SLE-19501,#N/A,#N/A,#N/A
+SLE-19614,487102,#N/A,joeyli,Rejected,Could Have,joeyli,none,#N/A,SLE-19500,#N/A,#N/A,#N/A
+SLE-19612,487100,#N/A,#N/A,Blocked,Could Have,mhocko,none,#N/A,SLE-19499,#N/A,#N/A,#N/A
+SLE-19610,487098,#N/A,mvidner,Done,Must Have,locilka,none,Low,SLE-18631,#N/A,#N/A,#N/A
+SLE-19608,487096,#N/A,#N/A,Planning,Must Have,ptesarik,none,#N/A,SLE-18449,#N/A,#N/A,#N/A
+SLE-19604,487091,#N/A,#N/A,Rejected,Must Have,ptesarik,none,#N/A,SLE-18731,#N/A,#N/A,#N/A
+SLE-19602,487089,#N/A,#N/A,Done,Must Have,sfent,markkp,Medium,SLE-18746,#N/A,#N/A,#N/A
+SLE-19600,487074,#N/A,jones_tony,Rejected,Could Have,mgorman,none,Low,SLE-19498,#N/A,#N/A,#N/A
+SLE-19598,487072,#N/A,#N/A,Rejected,Could Have,mhocko,none,#N/A,SLE-19496,#N/A,#N/A,#N/A
+SLE-19596,487053,#N/A,#N/A,Planning,Could Have,ptesarik,none,#N/A,SLE-19495,#N/A,#N/A,#N/A
+SLE-19592,486924,#N/A,#N/A,Planning,Could Have,#N/A,none,#N/A,SLE-18350,#N/A,#N/A,#N/A
+SLE-19590,486922,#N/A,#N/A,Rejected,Could Have,ptesarik,none,#N/A,SLE-18936,#N/A,#N/A,#N/A
+SLE-19587,486896,#N/A,joro,Done,Could Have,mhocko,none,#N/A,SLE-18930,#N/A,#N/A,#N/A
+SLE-19582,486887,#N/A,bpetkov,Done,Could Have,mhocko,none,Low,SLE-18895,#N/A,#N/A,#N/A
+SLE-19580,486881,#N/A,#N/A,Rejected,Could Have,mhocko,none,#N/A,SLE-18893,#N/A,#N/A,#N/A
+SLE-19578,486877,#N/A,joeyli,Rejected,Could Have,joeyli,none,#N/A,SLE-18887,#N/A,#N/A,#N/A
+SLE-19574,486873,#N/A,#N/A,Rejected,Could Have,#N/A,none,#N/A,SLE-18886,#N/A,#N/A,#N/A
+SLE-19569,486866,#N/A,jirislaby,Done,Could Have,mhocko,none,#N/A,SLE-19450,#N/A,#N/A,#N/A
+SLE-19565,486860,#N/A,sndirsch,Done,Could Have,ptesarik,none,#N/A,SLE-18743,#N/A,#N/A,#N/A
+SLE-19552,486604,#N/A,xiaoguang_wang,Done,Must Have,yfjiang,none,Medium,SLE-17880,#N/A,#N/A,#N/A
+SLE-19548,486600,#N/A,suntorytimed,Open,Must Have,Neyleah,none,#N/A,SLE-17804,#N/A,#N/A,#N/A
+SLE-19544,486596,#N/A,yfjiang,Done,Should Have,yfjiang,none,High,SLE-17858,#N/A,#N/A,#N/A
+SLE-19542,486594,#N/A,yfjiang,Open,Should Have,yfjiang,none,Low,SLE-17919,#N/A,#N/A,#N/A
+SLE-19540,486592,#N/A,alarrosa,In Progress,Should Have,sreeves1,alarrosa,Low,SLE-18248,#N/A,#N/A,#N/A
+SLE-19531,486577,#N/A,#N/A,Open,Could Have,claudiofontana,dfaggioli,#N/A,SLE-18736,#N/A,#N/A,#N/A
+SLE-19529,486574,#N/A,#N/A,In Progress,Must Have,claudiofontana,#N/A,#N/A,SLE-17837,#N/A,#N/A,#N/A
+SLE-19527,486572,#N/A,aginies,In Progress,Should Have,claudiofontana,vulyanov,#N/A,SLE-19371,#N/A,#N/A,#N/A
+SLE-19508,486508,#N/A,bpetkov,Rejected,Could Have,mhocko,none,Medium,SLE-18933,#N/A,#N/A,#N/A
+SLE-18729,484200,#N/A,sndirsch,Done,Must Have,ptesarik,none,#N/A,SLE-18630,#N/A,#N/A,#N/A
+SLE-18727,484198,#N/A,msmeissn,Open,Must Have,smanolov,rfrohl,#N/A,SLE-18517,#N/A,#N/A,#N/A
+SLE-18725,484196,#N/A,fbui,Done,Must Have,BenniBrunner,fbui,#N/A,SLE-18514,#N/A,#N/A,#N/A
+SLE-18723,484194,#N/A,#N/A,Open,Must Have,claudiofontana,acho,#N/A,SLE-18447,#N/A,#N/A,#N/A
+SLE-18721,484192,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18516,#N/A,#N/A,#N/A
+SLE-18719,484190,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18635,#N/A,#N/A,#N/A
+SLE-18717,484188,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18641,#N/A,#N/A,#N/A
+SLE-18715,484186,#N/A,#N/A,Open,Must Have,claudiofontana,acho,#N/A,SLE-18640,#N/A,#N/A,#N/A
+SLE-18713,484184,#N/A,dirkmueller,In Progress,Must Have,dirkmueller,none,#N/A,SLE-18639,#N/A,#N/A,#N/A
+SLE-18711,484182,#N/A,#N/A,In Progress,Must Have,matz2,zxyyz,Low,SLE-18638,#N/A,#N/A,#N/A
+SLE-18709,484180,#N/A,#N/A,In Progress,Must Have,matz2,matz2,Medium,SLE-18637,#N/A,#N/A,#N/A
+SLE-18707,484178,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18636,#N/A,#N/A,#N/A
+SLE-18705,484176,#N/A,ptesarik,In Progress,Must Have,ptesarik,ptesarik,#N/A,SLE-18634,#N/A,#N/A,#N/A
+SLE-18703,484174,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18633,#N/A,#N/A,#N/A
+SLE-18701,484172,#N/A,acho,Done,Must Have,claudiofontana,acho,#N/A,SLE-18452,#N/A,#N/A,#N/A
+SLE-18699,484170,#N/A,ptesarik,Blocked,Must Have,ptesarik,ptesarik,#N/A,SLE-18451,#N/A,#N/A,#N/A
+SLE-18697,484167,#N/A,#N/A,Open,Must Have,claudiofontana,acho,#N/A,SLE-18450,#N/A,#N/A,#N/A
+SLE-18695,484165,#N/A,#N/A,Blocked,Must Have,claudiofontana,acho,#N/A,SLE-18448,#N/A,#N/A,#N/A
+SLE-18693,484163,#N/A,jfehlig,Done,Must Have,claudiofontana,jfehlig,#N/A,SLE-18446,#N/A,#N/A,#N/A
+SLE-18691,484161,#N/A,ptesarik,Done,Must Have,ptesarik,ptesarik,#N/A,SLE-18445,#N/A,#N/A,#N/A
+SLE-18689,484159,#N/A,#N/A,Blocked,Must Have,claudiofontana,none,#N/A,SLE-18444,#N/A,#N/A,#N/A
+SLE-18687,484155,#N/A,#N/A,Open,Must Have,claudiofontana,acho,#N/A,SLE-18443,#N/A,#N/A,#N/A
+SLE-18685,484153,#N/A,#N/A,Blocked,Must Have,claudiofontana,none,#N/A,SLE-18442,#N/A,#N/A,#N/A
+SLE-18683,484151,#N/A,#N/A,Blocked,Must Have,claudiofontana,none,#N/A,SLE-18366,#N/A,#N/A,#N/A
+SLE-18681,484149,#N/A,#N/A,Blocked,Must Have,claudiofontana,none,#N/A,SLE-18365,#N/A,#N/A,#N/A
+SLE-18679,484146,#N/A,#N/A,Blocked,Must Have,claudiofontana,none,#N/A,SLE-18364,#N/A,#N/A,#N/A
+SLE-18869,484966,aginies,#N/A,Open,Must Have,claudiofontana,lyan,#N/A,SLE-18734,#N/A,#N/A,#N/A
+SLE-18867,484964,#N/A,#N/A,Open,Should Have,claudiofontana,charlesa,#N/A,SLE-18740,#N/A,#N/A,#N/A
+SLE-18854,484925,#N/A,#N/A,Done,Must Have,ptesarik,michals,Low,SLE-18198,#N/A,#N/A,#N/A
+SLE-18852,484923,#N/A,#N/A,Blocked,Must Have,ptesarik,michals,Low,SLE-18266,#N/A,#N/A,#N/A
+SLE-18850,484921,#N/A,michael-chang,Open,Must Have,BenniBrunner,michael-chang,Medium,SLE-18271,#N/A,#N/A,#N/A
+SLE-18848,484918,#N/A,#N/A,Blocked,Must Have,ptesarik,michals,#N/A,SLE-18273,#N/A,#N/A,#N/A
+SLE-18846,484916,#N/A,#N/A,Blocked,Must Have,ptesarik,michals,Low,SLE-18642,#N/A,#N/A,#N/A
+SLE-18844,484914,#N/A,#N/A,Done,Must Have,ptesarik,michals,Low,SLE-18644,#N/A,#N/A,#N/A
+SLE-18840,484910,#N/A,michals,Blocked,Must Have,ptesarik,none,Low,SLE-18134,#N/A,#N/A,#N/A
+SLE-18837,484901,#N/A,cbosdonnat,Open,Must Have,claudiofontana,dfaggioli,#N/A,SLE-18735,#N/A,#N/A,#N/A
+SLE-18835,484898,#N/A,aginies,Open,Must Have,claudiofontana,olh,#N/A,SLE-18325,#N/A,#N/A,#N/A
+SLE-18833,484896,#N/A,#N/A,Blocked,Must Have,claudiofontana,none,#N/A,SLE-18732,#N/A,#N/A,#N/A
+SLE-18829,484892,#N/A,#N/A,Open,Could Have,claudiofontana,lyan,#N/A,SLE-18737,#N/A,#N/A,#N/A
+SLE-18827,484887,#N/A,#N/A,Open,Must Have,claudiofontana,lyan,#N/A,SLE-18741,#N/A,#N/A,#N/A
+SLE-18824,484883,#N/A,#N/A,Planning,Should Have,suntorytimed,none,#N/A,SLE-17840,#N/A,#N/A,#N/A
+SLE-18777,484577,#N/A,yfjiang,In Progress,Should Have,yfjiang,none,High,SLE-18648,#N/A,#N/A,#N/A
+SLE-18677,484144,#N/A,#N/A,Blocked,Must Have,claudiofontana,none,#N/A,SLE-18363,#N/A,#N/A,#N/A
+SLE-18675,484142,#N/A,#N/A,Blocked,Must Have,claudiofontana,none,#N/A,SLE-18362,#N/A,#N/A,#N/A
+SLE-18673,484139,#N/A,ptesarik,Blocked,Must Have,ptesarik,ptesarik,#N/A,SLE-18361,#N/A,#N/A,#N/A
+SLE-18671,484137,#N/A,#N/A,Rejected,Must Have,ptesarik,none,#N/A,SLE-18360,#N/A,#N/A,#N/A
+SLE-18669,484135,#N/A,#N/A,Rejected,Must Have,ptesarik,none,#N/A,SLE-18358,#N/A,#N/A,#N/A
+SLE-18665,484130,#N/A,jziviani,Open,Must Have,claudiofontana,jziviani,#N/A,SLE-18353,#N/A,#N/A,#N/A
+SLE-9289,404474,#N/A,#N/A,Open,Wish to Have,#N/A,#N/A,#N/A,SLE-7254,Medium,Medium,Medium
+SLE-9237,404002,#N/A,#N/A,Blocked,Could Have,claudiofontana,#N/A,#N/A,SLE-2988,Medium,Medium,Medium
+SLE-17681,460451,#N/A,quwenruo_btrfs,In Progress,Must Have,goldwynr,#N/A,High,SLE-17674,#N/A,#N/A,#N/A
+SLE-17589,459521,#N/A,hreinecke,Planning,Could Have,hreinecke,#N/A,#N/A,SLE-16769,#N/A,#N/A,#N/A
+SLE-17171,452086,#N/A,#N/A,Planning,Wish to Have,mlschroe,#N/A,#N/A,SLE-17061,#N/A,#N/A,#N/A
+SLE-16721,446451,#N/A,#N/A,Planning,Could Have,#N/A,#N/A,#N/A,SLE-16533,#N/A,#N/A,#N/A
+SLE-16336,443571,#N/A,mkubecek,Planning,Could Have,hreinecke,mkubecek,Low,SLE-9010,Medium,#N/A,#N/A
+SLE-16654,445864,#N/A,#N/A,In Progress,Should Have,claudiofontana,#N/A,#N/A,SLE-16152,#N/A,#N/A,#N/A
+SLE-16891,447894,#N/A,#N/A,Open,Could Have,locilka,#N/A,Medium,SLE-16805,#N/A,#N/A,#N/A
+SLE-16178,442968,#N/A,#N/A,In Progress,Should Have,claudiofontana,lizhang,#N/A,SLE-12903,#N/A,#N/A,#N/A
+SLE-16176,442966,#N/A,#N/A,Open,Could Have,claudiofontana,j_gross,#N/A,SLE-15911,#N/A,#N/A,#N/A
+SLE-16174,442964,#N/A,#N/A,Open,Could Have,claudiofontana,dfaggioli,#N/A,SLE-15937,#N/A,#N/A,#N/A
+SLE-16158,442901,#N/A,#N/A,In Progress,Could Have,claudiofontana,jziviani,#N/A,SLE-15855,#N/A,#N/A,#N/A
+SLE-16157,442900,#N/A,dmdiss,In Progress,Wish to Have,goldwynr,#N/A,Medium,SLE-9078,Medium,#N/A,#N/A
+SLE-16437,443955,#N/A,#N/A,Planning,Should Have,#N/A,#N/A,#N/A,SLE-15834,#N/A,#N/A,#N/A
+SLE-15768,441578,#N/A,#N/A,Open,Should Have,Neyleah,#N/A,Low,SLE-12441,#N/A,#N/A,#N/A
+SLE-15313,440012,#N/A,duwe,Open,Must Have,ptesarik,duwe,#N/A,SLE-9293,Medium,#N/A,#N/A
+SLE-15183,439627,#N/A,suntorytimed,Open,Should Have,Neyleah,#N/A,High,SLE-11180,#N/A,#N/A,#N/A
+SLE-15181,439625,#N/A,#N/A,Blocked,Should Have,locilka,#N/A,Medium,SLE-11180,#N/A,#N/A,#N/A
