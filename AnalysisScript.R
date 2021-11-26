@@ -17,6 +17,11 @@ SLE15SP4DevTasks <- read.csv("/opt/Documents_Personal/Data_Analyse/15SP4_DevTask
 View(SLE15SP4DevTasks)
 
 
+## Add Prod.Imapct and Effort columns - they shouldbe imported
+Prod.Change <- round(rnorm(n =  length(SLE15SP4DevTasks$Issue.key), mean = 4, sd = 1))
+Impl.Effort <- round(rnorm(n =  length(SLE15SP4DevTasks$Issue.key), mean = 4, sd = 1))
+SLE15SP4DevTasks <- SLE15SP4DevTasks %>% mutate( Prod.Change) %>% mutate( Impl.Effort)
+SLE15SP4DevTasks$Effort <- SLE15SP4DevTasks$Prod.Change + 2*SLE15SP4DevTasks$Impl.Effort
 
 
 
@@ -60,7 +65,7 @@ TaskNumber %>%
   theme_bw()
 
 ###
-# Calculating the importance
+# Calculating the Value for the Product
 ####
 
 SLE15SP4DevTasks$Business.Impact <- factor(SLE15SP4DevTasks$Business.Impact, 
@@ -87,31 +92,65 @@ SLE15SP4DevTasks$Priority <- factor(SLE15SP4DevTasks$Priority,
 SLE15SP4DevTasks$Priority
 as.numeric(SLE15SP4DevTasks$Priority[1])
 
+
 SLE15SP4DevTasks$Value <- 
   as.numeric(SLE15SP4DevTasks$Priority) +
   as.numeric(SLE15SP4DevTasks$Business.Impact) +
   as.numeric(SLE15SP4DevTasks$Customer.Interest) +
   as.numeric(SLE15SP4DevTasks$Marketing.Need)
 
-SLE15SP4DevTasks[, SLE15SP4DevTasks$Responsible == "ptesarik"]
+SLE15SP4DevTasks <- SLE15SP4DevTasks %>% rename(ValueForProduct = Value)
 
-SLE15SP4DevTasks %>% filter((SLE15SP4DevTasks$Responsible == "ptesarik") & (!is.na(SLE15SP4DevTasks$Value)) )
 
-SLE15SP4DevTasks %>% filter((SLE15SP4DevTasks$Responsible == "kstreitova") & (!is.na(SLE15SP4DevTasks$Value)) )
+
+SLE15SP4DevTasks %>% filter((SLE15SP4DevTasks$Responsible == "kstreitova") & (!is.na(SLE15SP4DevTasks$ValueForProduct)) )
 
 #
 # subset only important columns
 
 dt_kstreitova <- SLE15SP4DevTasks %>% 
-  filter((SLE15SP4DevTasks$Responsible == "kstreitova") & (!is.na(SLE15SP4DevTasks$Value)) ) %>% 
-  select(Issue.key, Value )
+  filter((SLE15SP4DevTasks$Responsible == "kstreitova") & (!is.na(SLE15SP4DevTasks$ValueForProduct)) ) %>% 
+  select(Issue.key, ValueForProduct, Effort )
 View(dt_kstreitova)
 
+SLE15SP4DevTasks_Clean <- SLE15SP4DevTasks %>% 
+  filter((!is.na(SLE15SP4DevTasks$ValueForProduct)) ) %>% 
+  select(Issue.key, ValueForProduct, Effort, Team.Leader )
+
+## Scatter plot
+
+
+library(ggplot2)
+
+
+EffortCutOff <- max(dt_kstreitova$Effort)*0.4
+ValueCutOff <- max(dt_kstreitova$ValueForProduct)*0.4
+
+p <-ggplot(dt_kstreitova, aes(x = Effort, y = ValueForProduct)) +  geom_point() +
+  geom_hline(yintercept=ValueCutOff) + 
+  geom_vline(xintercept = EffortCutOff)
+  
+
+ggExtra::ggMarginal(p, type = "histogram")
+
+
+## Also for all tasks
+
+EffortCutOff <- max(SLE15SP4DevTasks_Clean$Effort)*0.4
+ValueCutOff <- max(SLE15SP4DevTasks_Clean$ValueForProduct)*0.4
+
+p <-ggplot(SLE15SP4DevTasks_Clean, aes(x = Effort, y = ValueForProduct)) +  geom_point() +
+  geom_hline(yintercept=ValueCutOff, linetype="dashed") + 
+  geom_vline(xintercept = EffortCutOff, linetype="dashed")
+ggExtra::ggMarginal(p, type = "histogram")
+
+#####################################
 # Pareto chart
+############################
 
 library(qicharts2)
 
-kr_ordered <- dt_kstreitova[order(dt_kstreitova$Value),]
+kr_ordered <- dt_kstreitova[order(dt_kstreitova$ValueForProduct),]
 kr_ordered$Issue <- factor(kr_ordered$Issue.key)
 View(kr_ordered)
 kr_ordered$Issue.key <- NULL
@@ -139,5 +178,34 @@ xy <- k_team %>% select(Importance)
 paretochart(k_team)
 View(dt_kstreitova)
 
-example(paretochart)
 
+
+
+#########################################################################
+# https://www.py4u.net/discuss/891651
+
+
+
+library(ggQC)
+ggplot(dt_kstreitova, aes(x = Issue.key, y = Effort)) +
+  geom_bar(stat="identity") +
+  stat_pareto(point.color = "red",
+              point.size = 1,
+              line.color = "black") +
+  theme(axis.text.x=element_text(angle=90,hjust=1)) 
+
+kr_ordered <- dt_kstreitova %>% group_by(Effort) %>% summarise(Count = n()) %>% arrange(desc(Effort))
+kr_ordered$SummEffort <- kr_ordered$Count*kr_ordered$Effort
+
+kr_ordered$Effort <- as.factor(kr_ordered$Effort)
+kr_ordered <- kr_ordered %>% arrange(desc(SummEffort))
+
+ggplot(kr_ordered, aes(x = Effort, y = SummEffort)) +
+  geom_bar(stat="identity") +
+  stat_pareto(point.color = "red",
+              point.size = 1,
+              line.color = "black") +
+  theme(axis.text.x=element_text(angle=90,hjust=1)) 
+
+ggplot(kr_ordered , aes(x = Effort, y = SummEffort)) +
+  geom_bar(stat="identity")
