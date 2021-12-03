@@ -188,7 +188,7 @@ View(dt_kstreitova)
 
 library(ggQC)
 ggplot(dt_kstreitova, aes(x = Issue.key, y = Effort)) +
-  geom_bar(stat="identity") +
+  geom_bar(stat="identity", alpha=0.1) +
   stat_pareto(point.color = "red",
               point.size = 1,
               line.color = "black") +
@@ -201,7 +201,7 @@ kr_ordered$Effort <- as.factor(kr_ordered$Effort)
 kr_ordered <- kr_ordered %>% arrange(desc(SummEffort))
 
 ggplot(kr_ordered, aes(x = Effort, y = SummEffort)) +
-  geom_bar(stat="identity") +
+  geom_bar(stat="identity", alpha=0) +
   stat_pareto(point.color = "red",
               point.size = 1,
               line.color = "black") +
